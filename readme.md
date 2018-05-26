@@ -7,7 +7,7 @@ My Notes on Machine Learning studying through various sources.
 
 ### Decision Trees [Link](https://docs.google.com/document/d/e/2PACX-1vTBOla5TwuUQbA6ZhrQi29f361Vl8-kUz_F9rA2jsl1DzAs_xoV5duoauUOovF2EoloVAtglku7wFib/pub)
 
-
+### Backpropogation and Initializations [Link](https://docs.google.com/document/d/e/2PACX-1vQ8kpJtcMpsr0ePhB78OngfjI14TMSvUJJ1m_RtmgLRNqUsWlURXZoQNtYg2TrkOlNMmxS9HNE9e1WB/pub)
 
 ## Acknowledgments
 
