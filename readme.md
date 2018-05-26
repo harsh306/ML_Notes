@@ -3,9 +3,7 @@
 
 ### Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
 
-### Prerequisites
-
-What things you need to install the software and how to install them
+### Decision Trees [Link](https://docs.google.com/document/d/e/2PACX-1vTBOla5TwuUQbA6ZhrQi29f361Vl8-kUz_F9rA2jsl1DzAs_xoV5duoauUOovF2EoloVAtglku7wFib/pub)
 
 ```
 Give examples
