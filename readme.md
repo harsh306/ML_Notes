@@ -9,6 +9,9 @@ My Notes on Machine Learning studying through various sources.
 
 ### Backpropogation and Initializations [Link](https://docs.google.com/document/d/e/2PACX-1vQ8kpJtcMpsr0ePhB78OngfjI14TMSvUJJ1m_RtmgLRNqUsWlURXZoQNtYg2TrkOlNMmxS9HNE9e1WB/pub)
 
+### Gradient Descent and Optimization [Link](https://docs.google.com/document/d/e/2PACX-1vSRkLjI5Kpt8dPyN5wylb1ZgkdhzKTv21MrRIWktbOymwHzHOLXzxer4K57jnVmSa5kybLieV8Lc4CF/pub)
+
+
 ## Acknowledgments
 
 * https://www.coursera.org/
