@@ -13,6 +13,8 @@ My Notes on Machine Learning studying through various sources.
 
 ### Convolutional Neural Networks [Link](https://docs.google.com/document/d/e/2PACX-1vRG_-7Xe6DTwg-yfwPmYMoezS8WDYpWjC7jTnQeJnA4dDAiXlLBHwgkzQl_j-fCpZQTmuYU99ePGXww/pub)
 
+### ResNet [Link](https://docs.google.com/document/d/e/2PACX-1vTut-SSPt0ZSuaAhdvIp5hp9qvFG8AUTzUvAX9KHoFVgDNPclql3Joub0Uf1AvPzbfEiqH7NgQHs2FR/pub)
+
 ## Acknowledgments
 
 * https://www.coursera.org/
