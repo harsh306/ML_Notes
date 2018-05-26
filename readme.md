@@ -11,6 +11,7 @@ My Notes on Machine Learning studying through various sources.
 
 ### Gradient Descent and Optimization [Link](https://docs.google.com/document/d/e/2PACX-1vSRkLjI5Kpt8dPyN5wylb1ZgkdhzKTv21MrRIWktbOymwHzHOLXzxer4K57jnVmSa5kybLieV8Lc4CF/pub)
 
+### Convolutional Neural Networks [Link](https://docs.google.com/document/d/e/2PACX-1vRG_-7Xe6DTwg-yfwPmYMoezS8WDYpWjC7jTnQeJnA4dDAiXlLBHwgkzQl_j-fCpZQTmuYU99ePGXww/pub)
 
 ## Acknowledgments
 
