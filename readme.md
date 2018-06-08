@@ -17,6 +17,8 @@ My Notes on Machine Learning studying through various sources.
 
 ### ResNet [Link](https://docs.google.com/document/d/e/2PACX-1vTut-SSPt0ZSuaAhdvIp5hp9qvFG8AUTzUvAX9KHoFVgDNPclql3Joub0Uf1AvPzbfEiqH7NgQHs2FR/pub)
 
+### Single Image Super REsolution [Link](https://docs.google.com/document/d/e/2PACX-1vTFRh9h1UC2yC3NExAKkV09ji_Y7i6qRe2GBU3TCEyPnDF2Fwt48boarv04pqcaadT93T2ywjGErTWl/pub)
+
 
 ## Acknowledgments
 
