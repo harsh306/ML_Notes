@@ -1,8 +1,11 @@
 # Machine Learning Notes
 
 ```
-My Notes on Machine Learning studying through various sources.
+My notes on Machine Learning studying through various sources.
 ```
+
+## Machine Learning 
+
 ### Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
 
 ### Information Theory [Link](https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d)
