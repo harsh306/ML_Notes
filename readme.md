@@ -26,6 +26,8 @@ My notes on Machine Learning studying through various sources.
 
 ### Single Image Super Resolution [Link](https://docs.google.com/document/d/e/2PACX-1vTFRh9h1UC2yC3NExAKkV09ji_Y7i6qRe2GBU3TCEyPnDF2Fwt48boarv04pqcaadT93T2ywjGErTWl/pub)
 
+### Neural Turing Machine [Link](https://docs.google.com/document/d/e/2PACX-1vR4FsoKfNHX-Amy895QD3Ce3A-Sty-p-qSEa02o96Pn1FxLOY6wX3Epsvwx6Gd0CMqia6czelB6lYRU/pub)
+
 ## Acknowledgments
 
 * https://www.coursera.org/
