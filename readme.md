@@ -12,6 +12,8 @@ My notes on Machine Learning studying through various sources.
 
 ### Decision Trees and Cross Entropy [Link](https://docs.google.com/document/d/e/2PACX-1vTBOla5TwuUQbA6ZhrQi29f361Vl8-kUz_F9rA2jsl1DzAs_xoV5duoauUOovF2EoloVAtglku7wFib/pub)
 
+### SVM [Link](https://svmtutorial.online/download.php?file=SVM_tutorial.pdf)
+
 ## Deep Learning
 ### Lipschitz Continuity [Link](https://docs.google.com/document/d/e/2PACX-1vTMp0Gw2L4zUw1EB5hPJFr8vYjg52dGQ_tA7qRVIkETrxJVqc3sBGd_M7Owh6-HCjKmgP33vSWoZjI4/pub)
 
