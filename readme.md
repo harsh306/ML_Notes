@@ -14,6 +14,8 @@ My notes on Machine Learning studying through various sources.
 
 ### SVM [Link](https://svmtutorial.online/download.php?file=SVM_tutorial.pdf)
 
+### Bayes Theorem [Link](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
+
 ## Deep Learning
 ### Lipschitz Continuity [Link](https://docs.google.com/document/d/e/2PACX-1vTMp0Gw2L4zUw1EB5hPJFr8vYjg52dGQ_tA7qRVIkETrxJVqc3sBGd_M7Owh6-HCjKmgP33vSWoZjI4/pub)
 
