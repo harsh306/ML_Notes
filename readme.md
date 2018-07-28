@@ -22,6 +22,8 @@ My notes on Machine Learning studying through various sources.
 ## Deep Learning
 ### Word2Vec [Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
+### Negative smapling [Link](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
+
 ### Lipschitz Continuity [Link](https://docs.google.com/document/d/e/2PACX-1vTMp0Gw2L4zUw1EB5hPJFr8vYjg52dGQ_tA7qRVIkETrxJVqc3sBGd_M7Owh6-HCjKmgP33vSWoZjI4/pub)
 
 ### Backpropogation and Initializations [Link](https://docs.google.com/document/d/e/2PACX-1vQ8kpJtcMpsr0ePhB78OngfjI14TMSvUJJ1m_RtmgLRNqUsWlURXZoQNtYg2TrkOlNMmxS9HNE9e1WB/pub)
