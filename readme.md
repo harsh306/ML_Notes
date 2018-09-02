@@ -19,6 +19,8 @@ My notes on Machine Learning studying through various sources.
 
 ### Bayes Theorem [Link](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
 
+### PCA and SVD [Link](https://docs.google.com/document/d/e/2PACX-1vT9cGkZ8KFpt55t7fR3eB2BNrhKrmyT2joSR_1XMNmsPWsCs2g8YKK3EwhO4_3gsDirI3vCwJ6swPVb/pub)
+
 ## Deep Learning
 ### Word2Vec [Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
