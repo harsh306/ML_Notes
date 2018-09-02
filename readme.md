@@ -1,5 +1,6 @@
 # Machine Learning Notes
 
+## Interview Questions [Link](https://docs.google.com/document/d/e/2PACX-1vQOmgGOshw6Mrk20L4T5C-t5QXMQtFo-UpL5ZmvGGPlCxSVWkYig0X0i0N_QrxsflmV1oIjuX4yDX5r/pub)
 ```
 My notes on Machine Learning studying through various sources.
 ```
