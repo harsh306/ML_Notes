@@ -30,6 +30,8 @@ My notes on Machine Learning studying through various sources.
 ## Deep Learning
 ### Matrix Calculus [Link](https://arxiv.org/pdf/1802.01528.pdf)
 
+### Taylor Series [Link](https://www.youtube.com/watch?v=3d6DsjIBzJ4)
+
 ### Practical Deep Learning [Link](http://course.fast.ai/lessons/lessons.html)
 
 ### Word2Vec [Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
