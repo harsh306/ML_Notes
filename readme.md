@@ -32,6 +32,8 @@ My notes on Machine Learning studying through various sources.
 
 ### Taylor Series [Link](https://www.youtube.com/watch?v=3d6DsjIBzJ4)
 
+### Jacobians and Hessians [Link](https://najeebkhan.github.io/blog/VecCal.html) 
+
 ### Practical Deep Learning [Link](http://course.fast.ai/lessons/lessons.html)
 
 ### Word2Vec [Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
