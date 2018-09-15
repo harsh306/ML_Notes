@@ -44,7 +44,7 @@ My notes on Machine Learning studying through various sources.
 
 ### Backpropogation and Initializations [Link](https://docs.google.com/document/d/e/2PACX-1vQ8kpJtcMpsr0ePhB78OngfjI14TMSvUJJ1m_RtmgLRNqUsWlURXZoQNtYg2TrkOlNMmxS9HNE9e1WB/pub)
 
-### Gradient Descent and Optimization [Link](https://docs.google.com/document/d/e/2PACX-1vSRkLjI5Kpt8dPyN5wylb1ZgkdhzKTv21MrRIWktbOymwHzHOLXzxer4K57jnVmSa5kybLieV8Lc4CF/pub)
+### Gradient Descent and Optimization [Link1](https://docs.google.com/document/d/e/2PACX-1vSRkLjI5Kpt8dPyN5wylb1ZgkdhzKTv21MrRIWktbOymwHzHOLXzxer4K57jnVmSa5kybLieV8Lc4CF/pub) [Link2](https://docs.google.com/document/d/e/2PACX-1vQmomWlyGsNQUyvBHRK6YMhiLJ6ee0PWPG4hZZyLRFHFE412lZgO5qHZ7iUkxltM0rxhJ8uf79bZSSk/pub)
 
 ### Convolutional Neural Networks [Link](https://docs.google.com/document/d/e/2PACX-1vRG_-7Xe6DTwg-yfwPmYMoezS8WDYpWjC7jTnQeJnA4dDAiXlLBHwgkzQl_j-fCpZQTmuYU99ePGXww/pub)
 
