@@ -27,6 +27,8 @@ My notes on Machine Learning studying through various sources.
 
 ### PCA and SVD [Link](https://docs.google.com/document/d/e/2PACX-1vT9cGkZ8KFpt55t7fR3eB2BNrhKrmyT2joSR_1XMNmsPWsCs2g8YKK3EwhO4_3gsDirI3vCwJ6swPVb/pub)
 
+### ISOMAP [Link](https://blog.paperspace.com/dimension-reduction-with-isomap/)
+
 ## Deep Learning
 ### Matrix Calculus [Link](https://arxiv.org/pdf/1802.01528.pdf)
 
