@@ -38,6 +38,8 @@ My notes on Machine Learning studying through various sources.
 
 ### Practical Deep Learning [Link](http://course.fast.ai/lessons/lessons.html)
 
+### Unsupervised Pre-training, Fine-tuning[Link](https://www.youtube.com/watch?v=Oq38pINmddk)
+
 ### Word2Vec [Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
 ### Negative smapling [Link](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
