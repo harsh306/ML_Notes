@@ -8,6 +8,8 @@ My notes on Machine Learning studying through various sources.
 ```
 ## Data Strucures and Algos [Link](http://interactivepython.org/runestone/static/pythonds/index.html) [Link2](https://www.hackerrank.com/domains/data-structures)
 
+## Regex [Link](https://regexone.com/references/python) [Link2](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
+
 ## Data Visualization D3 [Link](https://www.youtube.com/watch?v=4e3NF8ez95w&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi) [Link2](https://github.com/curran/dataviz-course-archive)
 
 ## Machine Learning 
