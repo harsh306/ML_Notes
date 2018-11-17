@@ -15,7 +15,7 @@ My notes on Machine Learning studying through various sources.
 ## Machine Learning 
 ### Log-likelihood [Link](https://blog.metaflow.fr/ml-notes-why-the-log-likelihood-24f7b6c40f83)
 
-### Least Square Erroe [Link](https://towardsdatascience.com/ml-notes-why-the-least-square-error-bf27fdd9a721)
+### Least Square Error [Link](https://towardsdatascience.com/ml-notes-why-the-least-square-error-bf27fdd9a721)
 
 ### TF-IDF [Link](http://www.tfidf.com)
 
