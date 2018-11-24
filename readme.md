@@ -60,6 +60,8 @@ My notes on Machine Learning studying through various sources.
 
 ### Attention [Link](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 
+### Structuring Your Tensorflow Models [Link](https://danijar.com/structuring-your-tensorflow-models/)
+
 ## Paper Readings
 
 ### ResNet [Link](https://docs.google.com/document/d/e/2PACX-1vTut-SSPt0ZSuaAhdvIp5hp9qvFG8AUTzUvAX9KHoFVgDNPclql3Joub0Uf1AvPzbfEiqH7NgQHs2FR/pub)
