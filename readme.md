@@ -37,6 +37,8 @@ My notes on Machine Learning studying through various sources.
 
 ### SMOTE [Link](SMOTE)(http://rikunert.com/SMOTE_explained)
 
+### LDA Topic Modelling [Link](https://www.youtube.com/watch?v=3mHy4OSyRf0) [Link-Code](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) 
+
 ## Deep Learning
 ### Matrix Calculus [Link](https://arxiv.org/pdf/1802.01528.pdf)
 
