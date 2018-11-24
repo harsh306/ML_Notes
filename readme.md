@@ -35,6 +35,8 @@ My notes on Machine Learning studying through various sources.
 
 ### ISOMAP [Link](https://blog.paperspace.com/dimension-reduction-with-isomap/)
 
+### SMOTE [Link](SMOTE)(http://rikunert.com/SMOTE_explained)
+
 ## Deep Learning
 ### Matrix Calculus [Link](https://arxiv.org/pdf/1802.01528.pdf)
 
