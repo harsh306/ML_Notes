@@ -1,7 +1,7 @@
 # NLP 
 
 
-## Regex [Link](https://regexone.com/references/python) [Link2](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
+### Regex [Link](https://regexone.com/references/python) [Link2](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
 
 ### TF-IDF [Link](http://www.tfidf.com)
 
