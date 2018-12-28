@@ -1,1 +1,24 @@
 # Machine Learning
+
+### Log-likelihood [Link](https://blog.metaflow.fr/ml-notes-why-the-log-likelihood-24f7b6c40f83)
+
+### Least Square Error [Link](https://towardsdatascience.com/ml-notes-why-the-least-square-error-bf27fdd9a721)
+
+### Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
+
+### Dummy Variable Trap[Link](https://docs.google.com/document/d/e/2PACX-1vTCgloYD87WQK4zqqV0YwZpQuuB6etoGE-2n_AfBSwu9X4QDYIawpu-8Y44UL2xPKiZ2EWyQtPJnVFI/pub)
+
+### Information Theory [Link](https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d)
+
+### Decision Trees and Cross Entropy [Link](https://docs.google.com/document/d/e/2PACX-1vTBOla5TwuUQbA6ZhrQi29f361Vl8-kUz_F9rA2jsl1DzAs_xoV5duoauUOovF2EoloVAtglku7wFib/pub)
+
+### SVM [Link](https://svmtutorial.online/download.php?file=SVM_tutorial.pdf)
+
+### Bayes Theorem [Link](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
+
+### PCA and SVD [Link](https://docs.google.com/document/d/e/2PACX-1vT9cGkZ8KFpt55t7fR3eB2BNrhKrmyT2joSR_1XMNmsPWsCs2g8YKK3EwhO4_3gsDirI3vCwJ6swPVb/pub)
+
+### ISOMAP [Link](https://blog.paperspace.com/dimension-reduction-with-isomap/)
+
+### SMOTE [Link](http://rikunert.com/SMOTE_explained)
+
