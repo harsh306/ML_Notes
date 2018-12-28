@@ -1,16 +1,11 @@
 # Machine Learning Notes
 
-
-# Math
-
-
 ## Interview Questions [Link](https://docs.google.com/document/d/e/2PACX-1vQOmgGOshw6Mrk20L4T5C-t5QXMQtFo-UpL5ZmvGGPlCxSVWkYig0X0i0N_QrxsflmV1oIjuX4yDX5r/pub)
 ```
 My notes on Machine Learning studying through various sources.
 ```
 ## Data Strucures and Algos [Link](http://interactivepython.org/runestone/static/pythonds/index.html) [Link2](https://www.hackerrank.com/domains/data-structures)
 
-## Regex [Link](https://regexone.com/references/python) [Link2](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
 
 ## Data Visualization D3 [Link](https://www.youtube.com/watch?v=4e3NF8ez95w&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi) [Link2](https://github.com/curran/dataviz-course-archive)
 
@@ -20,8 +15,6 @@ MLNOTES2 [Link](https://github.com/johnmyleswhite/MLNotes)
 ### Log-likelihood [Link](https://blog.metaflow.fr/ml-notes-why-the-log-likelihood-24f7b6c40f83)
 
 ### Least Square Error [Link](https://towardsdatascience.com/ml-notes-why-the-least-square-error-bf27fdd9a721)
-
-### TF-IDF [Link](http://www.tfidf.com)
 
 ### Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
 
@@ -41,20 +34,8 @@ MLNOTES2 [Link](https://github.com/johnmyleswhite/MLNotes)
 
 ### SMOTE [Link](http://rikunert.com/SMOTE_explained)
 
-### LDA Topic Modelling [Link](https://www.youtube.com/watch?v=3mHy4OSyRf0) [Link-Code](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) 
 
 ## Deep Learning
-### Matrix Calculus [Link](https://arxiv.org/pdf/1802.01528.pdf)
-
-### Taylor Series [Link](https://www.youtube.com/watch?v=3d6DsjIBzJ4)
-
-### Jacobians and Hessians [Link](https://najeebkhan.github.io/blog/VecCal.html) 
-
-
-### Word2Vec [Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
-
-### Negative smapling [Link](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
-
 ### Lipschitz Continuity [Link](https://docs.google.com/document/d/e/2PACX-1vTMp0Gw2L4zUw1EB5hPJFr8vYjg52dGQ_tA7qRVIkETrxJVqc3sBGd_M7Owh6-HCjKmgP33vSWoZjI4/pub)
 
 
