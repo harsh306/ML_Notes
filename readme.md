@@ -2,7 +2,6 @@
 
 
 # Math
-## Probability and stats [Link](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/)
 
 
 ## Interview Questions [Link](https://docs.google.com/document/d/e/2PACX-1vQOmgGOshw6Mrk20L4T5C-t5QXMQtFo-UpL5ZmvGGPlCxSVWkYig0X0i0N_QrxsflmV1oIjuX4yDX5r/pub)
