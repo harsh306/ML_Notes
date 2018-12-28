@@ -1,5 +1,7 @@
 # Deep Learning
 
+### [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)
+
 ### Practical Deep Learning [Link](http://course.fast.ai/lessons/lessons.html)
 
 ### Unsupervised Pre-training, Fine-tuning[Link](https://www.youtube.com/watch?v=Oq38pINmddk)
