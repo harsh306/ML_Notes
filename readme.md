@@ -50,9 +50,6 @@ MLNOTES2 [Link](https://github.com/johnmyleswhite/MLNotes)
 
 ### Jacobians and Hessians [Link](https://najeebkhan.github.io/blog/VecCal.html) 
 
-### Practical Deep Learning [Link](http://course.fast.ai/lessons/lessons.html)
-
-### Unsupervised Pre-training, Fine-tuning[Link](https://www.youtube.com/watch?v=Oq38pINmddk)
 
 ### Word2Vec [Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
@@ -60,15 +57,6 @@ MLNOTES2 [Link](https://github.com/johnmyleswhite/MLNotes)
 
 ### Lipschitz Continuity [Link](https://docs.google.com/document/d/e/2PACX-1vTMp0Gw2L4zUw1EB5hPJFr8vYjg52dGQ_tA7qRVIkETrxJVqc3sBGd_M7Owh6-HCjKmgP33vSWoZjI4/pub)
 
-### Backpropogation and Initializations [Link](https://docs.google.com/document/d/e/2PACX-1vQ8kpJtcMpsr0ePhB78OngfjI14TMSvUJJ1m_RtmgLRNqUsWlURXZoQNtYg2TrkOlNMmxS9HNE9e1WB/pub)
-
-### Gradient Descent and Optimization [Link1](https://docs.google.com/document/d/e/2PACX-1vSRkLjI5Kpt8dPyN5wylb1ZgkdhzKTv21MrRIWktbOymwHzHOLXzxer4K57jnVmSa5kybLieV8Lc4CF/pub) [Link2](https://docs.google.com/document/d/e/2PACX-1vQmomWlyGsNQUyvBHRK6YMhiLJ6ee0PWPG4hZZyLRFHFE412lZgO5qHZ7iUkxltM0rxhJ8uf79bZSSk/pub)
-
-### Convolutional Neural Networks [Link](https://docs.google.com/document/d/e/2PACX-1vRG_-7Xe6DTwg-yfwPmYMoezS8WDYpWjC7jTnQeJnA4dDAiXlLBHwgkzQl_j-fCpZQTmuYU99ePGXww/pub)
-
-### Attention [Link](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
-
-### Structuring Your Tensorflow Models [Link](https://danijar.com/structuring-your-tensorflow-models/)
 
 ## Paper Readings
 
