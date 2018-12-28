@@ -12,3 +12,4 @@
 
 ### Cosine Similarity [Link](http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)
 
+### Lipschitz Continuity [Link](https://docs.google.com/document/d/e/2PACX-1vTMp0Gw2L4zUw1EB5hPJFr8vYjg52dGQ_tA7qRVIkETrxJVqc3sBGd_M7Owh6-HCjKmgP33vSWoZjI4/pub)
