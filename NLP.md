@@ -1,5 +1,6 @@
 # NLP 
 
+### [Georgia Tech](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
 
 ### Regex [Link](https://regexone.com/references/python) [Link2](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
 
