@@ -10,6 +10,8 @@
 
 ### Taylor Series [Link](https://www.youtube.com/watch?v=3d6DsjIBzJ4)
 
+### [MIT Mathlets](http://mathlets.org/mathlets/)
+
 ### Jacobians and Hessians [Link](https://najeebkhan.github.io/blog/VecCal.html) 
 
 ### Cosine Similarity [Link](http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)
