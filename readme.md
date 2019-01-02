@@ -2,11 +2,11 @@
 
 ### [Machine Learning](./ML.md) 
 
-# [ML Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229.html)
+#### [ML Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229.html)
 
 ### [Deep Learning](./DL.md)
 
-# [DL Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230.html)
+#### [DL Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230.html)
 
 ### [Mathematics](./math.md)
 
