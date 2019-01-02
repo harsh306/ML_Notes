@@ -1,5 +1,7 @@
 # Mathematics
 
+### [ML math](https://mml-book.github.io/)
+
 ### Probability and stats [Link](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/)
 
 ### Bayes Theorem [Link](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
