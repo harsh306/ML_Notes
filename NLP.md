@@ -4,6 +4,8 @@
 
 ### Regex [Link](https://regexone.com/references/python) [Link2](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
 
+### BOW and N-gram [Link](https://machinelearningmastery.com/gentle-introduction-bag-words-model/) 
+
 ### TF-IDF [Link](http://www.tfidf.com)
 
 ### LDA Topic Modelling [Link](https://www.youtube.com/watch?v=3mHy4OSyRf0) [Link-Code](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) 
