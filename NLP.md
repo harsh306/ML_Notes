@@ -10,6 +10,6 @@
 
 ### LDA Topic Modelling [Link](https://www.youtube.com/watch?v=3mHy4OSyRf0) [Link-Code](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) 
 
-### Word2Vec [Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) [Link2](https://www.coursera.org/learn/nlp-sequence-models/lecture/Iwx0e/negative-sampling)
+### Word2Vec [Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) 
 
-### Negative smapling [Link](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
+### Negative smapling [Link](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/) [Link2](https://www.coursera.org/learn/nlp-sequence-models/lecture/Iwx0e/negative-sampling)
