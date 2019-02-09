@@ -13,3 +13,5 @@
 ### Word2Vec [Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) 
 
 ### Negative smapling [Link](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/) [Link2](https://www.coursera.org/learn/nlp-sequence-models/lecture/Iwx0e/negative-sampling)
+
+### Glove vs Word2vec [Link](https://www.quora.com/How-is-GloVe-different-from-word2vec)
