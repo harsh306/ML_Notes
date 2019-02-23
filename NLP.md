@@ -15,3 +15,5 @@
 ### Negative smapling [Link](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/) [Link2](https://www.coursera.org/learn/nlp-sequence-models/lecture/Iwx0e/negative-sampling)
 
 ### Glove vs Word2vec [Link](https://www.quora.com/How-is-GloVe-different-from-word2vec)
+
+### Sequence Models [Link](https://docs.google.com/document/d/1F3ldWUp7zy0xmVbWS9RLSeCf_SNuppzq4Bd_9AjkI8o/edit?usp=sharing)
