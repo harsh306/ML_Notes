@@ -22,3 +22,5 @@
 
 ### SMOTE [Link](http://rikunert.com/SMOTE_explained)
 
+### K-NN [Link](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+
