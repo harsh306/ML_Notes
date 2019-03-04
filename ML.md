@@ -24,3 +24,4 @@
 
 ### K-NN [Link](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 
+### Stratified Sampling [Link](https://en.wikipedia.org/wiki/Stratified_sampling)
