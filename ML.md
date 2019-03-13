@@ -26,4 +26,6 @@
 
 ### Stratified Sampling [Link](https://en.wikipedia.org/wiki/Stratified_sampling)
 
-### Correlation and Causation [Link](https://www.iperceptions.com/blog/causation-vs-correlation)
+### Correlation vs Causation [Link](https://www.iperceptions.com/blog/causation-vs-correlation)
+
+### MLE vs MAP [Link](https://wiseodd.github.io/techblog/2017/01/01/mle-vs-map/)
