@@ -29,3 +29,5 @@
 ### Correlation vs Causation [Link](https://www.iperceptions.com/blog/causation-vs-correlation)
 
 ### MLE vs MAP [Link](https://wiseodd.github.io/techblog/2017/01/01/mle-vs-map/)
+
+### Categorical data [Link](https://towardsdatascience.com/an-overview-of-categorical-input-handling-for-neural-networks-c172ba552dee)
