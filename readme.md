@@ -10,6 +10,9 @@
 
 ### [Mathematics](./math.md)
 
+### [Computaion Complexity](https://docs.google.com/document/d/e/2PACX-1vRBx4plhkQfvlhlZK_aP4aRNB3d_AxwaYqizIkJoL2iZueVO8gkxglVQGz9-8OaDVIX2kIU4NVqY8Xw/pub)
+#### [BigO Cheatsheet](http://bigocheatsheet.com/)
+
 ### Interview Questions [Link](https://docs.google.com/document/d/e/2PACX-1vQOmgGOshw6Mrk20L4T5C-t5QXMQtFo-UpL5ZmvGGPlCxSVWkYig0X0i0N_QrxsflmV1oIjuX4yDX5r/pub)
 
 ### Data Strucures and Algos [Link](http://interactivepython.org/runestone/static/pythonds/index.html) [Link2](https://www.hackerrank.com/domains/data-structures)
