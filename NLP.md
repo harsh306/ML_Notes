@@ -17,3 +17,5 @@
 ### Glove vs Word2vec [Link](https://www.quora.com/How-is-GloVe-different-from-word2vec)
 
 ### Sequence Models [Link](https://docs.google.com/document/d/1F3ldWUp7zy0xmVbWS9RLSeCf_SNuppzq4Bd_9AjkI8o/edit?usp=sharing)
+
+### Cove, ELMO and BERT [Link](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
