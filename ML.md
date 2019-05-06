@@ -1,6 +1,6 @@
 # Machine Learning
 
-### Log-likelihood [Link](https://blog.metaflow.fr/ml-notes-why-the-log-likelihood-24f7b6c40f83) (https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/)
+### Log-likelihood [Link](https://blog.metaflow.fr/ml-notes-why-the-log-likelihood-24f7b6c40f83) (https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/)[Link2]
 
 ### Least Square Error [Link](https://towardsdatascience.com/ml-notes-why-the-least-square-error-bf27fdd9a721)
 
