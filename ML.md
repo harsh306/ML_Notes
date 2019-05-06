@@ -32,4 +32,4 @@
 
 ### Categorical data [Link](https://towardsdatascience.com/an-overview-of-categorical-input-handling-for-neural-networks-c172ba552dee)
 
-### Covariate Shift in ML or Why train and test data should come from similar distribution[Link] (https://towardsdatascience.com/how-dis-similar-are-my-train-and-test-data-56af3923de9b)
+### Covariate Shift in ML or Why train and test data should come from similar distribution [Link](https://towardsdatascience.com/how-dis-similar-are-my-train-and-test-data-56af3923de9b)
