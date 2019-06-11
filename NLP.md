@@ -19,3 +19,5 @@
 ### Sequence Models [Link](https://docs.google.com/document/d/1F3ldWUp7zy0xmVbWS9RLSeCf_SNuppzq4Bd_9AjkI8o/edit?usp=sharing)
 
 ### CoVe, ELMO and BERT [Link](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html) [Link2](http://jalammar.github.io/illustrated-bert/)
+[More Bert](http://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/)
+[More ELMO](http://mlexplained.com/2018/06/15/paper-dissected-deep-contextualized-word-representations-explained/)
