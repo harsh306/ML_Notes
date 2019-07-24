@@ -6,6 +6,8 @@
 
 ### Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
 
+### AUC-ROC [Link](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
+
 ### Dummy Variable Trap[Link](https://docs.google.com/document/d/e/2PACX-1vTCgloYD87WQK4zqqV0YwZpQuuB6etoGE-2n_AfBSwu9X4QDYIawpu-8Y44UL2xPKiZ2EWyQtPJnVFI/pub)
 
 ### Information Theory [Link](https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d)
@@ -19,6 +21,7 @@
 ### PCA and SVD [Link](https://docs.google.com/document/d/e/2PACX-1vT9cGkZ8KFpt55t7fR3eB2BNrhKrmyT2joSR_1XMNmsPWsCs2g8YKK3EwhO4_3gsDirI3vCwJ6swPVb/pub)
 
 ### ISOMAP [Link](https://blog.paperspace.com/dimension-reduction-with-isomap/)
+
 
 ### SMOTE [Link](http://rikunert.com/SMOTE_explained)
 
