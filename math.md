@@ -21,3 +21,5 @@
 ### Lipschitz Continuity [Link](https://docs.google.com/document/d/e/2PACX-1vTMp0Gw2L4zUw1EB5hPJFr8vYjg52dGQ_tA7qRVIkETrxJVqc3sBGd_M7Owh6-HCjKmgP33vSWoZjI4/pub)
 
 ### Non-convex optimization for Machine Learning [Link](https://arxiv.org/abs/1712.07897)
+
+### Closed-form vs Gradient Descent [Link](https://sebastianraschka.com/faq/docs/closed-form-vs-gd.html) [Link2](https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-linear-regression-when-a-closed-form-math-solution/278794)
