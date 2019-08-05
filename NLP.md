@@ -16,7 +16,9 @@
 
 ### Glove vs Word2vec [Link](https://www.quora.com/How-is-GloVe-different-from-word2vec)
 
-### Sequence Models [Link](https://docs.google.com/document/d/1F3ldWUp7zy0xmVbWS9RLSeCf_SNuppzq4Bd_9AjkI8o/edit?usp=sharing)
+### Sequence Models [Link](https://docs.google.com/document/d/1F3ldWUp7zy0xmVbWS9RLSeCf_SNuppzq4Bd_9AjkI8o/edit?usp=sharing) [Link2](https://distill.pub/2019/memorization-in-rnns/)
+
+### Attention [Link](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) [Link2](https://distill.pub/2016/augmented-rnns/)
 
 ### CoVe, ELMO and BERT [Link](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html) [Link2](http://jalammar.github.io/illustrated-bert/)
 [More Bert](http://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/)
