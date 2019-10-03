@@ -38,3 +38,5 @@
 ### Covariate Shift in ML or Why train and test data should come from similar distribution [Link](https://towardsdatascience.com/how-dis-similar-are-my-train-and-test-data-56af3923de9b)
 
 ### Kalman_filter [Link](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+
+### Significance Test to compare infernce  [Link1](https://machinelearningmastery.com/statistical-significance-tests-for-comparing-machine-learning-algorithms/)[Link2](https://machinelearningmastery.com/mcnemars-test-for-machine-learning/)
