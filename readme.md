@@ -1,5 +1,7 @@
 #  Notes
 
+### [Production and Deployment](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf) [Link2](https://github.com/alirezadir/Production-Level-Deep-Learning)
+
 ### [Machine Learning](./ML.md) 
 
 #### [ML Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229.html)
@@ -11,6 +13,7 @@
 ### [Mathematics](./math.md)
 
 ### [Computaion Complexity](https://docs.google.com/document/d/e/2PACX-1vRBx4plhkQfvlhlZK_aP4aRNB3d_AxwaYqizIkJoL2iZueVO8gkxglVQGz9-8OaDVIX2kIU4NVqY8Xw/pub)
+
 #### [BigO Cheatsheet](http://bigocheatsheet.com/)
 
 ### Interview Questions [Link](https://docs.google.com/document/d/e/2PACX-1vQOmgGOshw6Mrk20L4T5C-t5QXMQtFo-UpL5ZmvGGPlCxSVWkYig0X0i0N_QrxsflmV1oIjuX4yDX5r/pub)
