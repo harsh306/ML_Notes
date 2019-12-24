@@ -10,7 +10,7 @@
 
 #### [DL Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230.html)
 
-### [Mathematics](./math.md)
+### [Relavant Mathematics](./math.md)
 
 ### [Computaion Complexity](https://docs.google.com/document/d/e/2PACX-1vRBx4plhkQfvlhlZK_aP4aRNB3d_AxwaYqizIkJoL2iZueVO8gkxglVQGz9-8OaDVIX2kIU4NVqY8Xw/pub)
 
