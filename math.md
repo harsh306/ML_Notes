@@ -2,7 +2,7 @@
 
 ### [ML math](https://mml-book.github.io/)
 
-### Probability and stats [Link](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/)
+### Probability and stats [Link](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/) [Link2](https://statisticsbyjim.com/glossary/)
 
 ### Bayes Theorem [Link](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
 
