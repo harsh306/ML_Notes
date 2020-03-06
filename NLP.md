@@ -8,6 +8,8 @@
 
 ### TF-IDF [Link](http://www.tfidf.com)
 
+### NLP pre-processing [Link](https://towardsdatascience.com/nlp-text-preprocessing-a-practical-guide-and-template-d80874676e79)
+
 ### LDA Topic Modelling [Link](https://www.youtube.com/watch?v=3mHy4OSyRf0) [Link-Code](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) 
 
 ### Word2Vec [Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) 
