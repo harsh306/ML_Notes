@@ -6,6 +6,10 @@
 
 ### Least Square Error [Link](https://towardsdatascience.com/ml-notes-why-the-least-square-error-bf27fdd9a721)
 
+### Type of Loss [link](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+
+### Pairwise losses [link](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+
 ### Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
 
 ### L1 and L2 Regularizer [Link](https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261)
