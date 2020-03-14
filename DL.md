@@ -14,6 +14,8 @@
 
 ### Momentum [Link](https://distill.pub/2017/momentum/)
 
+### Dropouts [Link](https://medium.com/@bingobee01/a-review-of-dropout-as-applied-to-rnns-72e79ecd5b7b)
+
 ### Convolutional Neural Networks [Link](https://docs.google.com/document/d/e/2PACX-1vRG_-7Xe6DTwg-yfwPmYMoezS8WDYpWjC7jTnQeJnA4dDAiXlLBHwgkzQl_j-fCpZQTmuYU99ePGXww/pub)
 
 ### Attention [Link](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
