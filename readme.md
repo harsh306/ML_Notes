@@ -24,7 +24,10 @@
 
 ### Data Visualization D3 [Link](https://www.youtube.com/watch?v=4e3NF8ez95w&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi) [Link2](https://github.com/curran/dataviz-course-archive)
 
+### Software Infrastructure [Link](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
+
 ### Other similar Repo MLNOTES2 [Link](https://github.com/johnmyleswhite/MLNotes)
+
 
 ## Acknowledgments
 
