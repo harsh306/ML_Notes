@@ -17,3 +17,4 @@ Paper Writing
 14. Don’t overuse italics. (I use them far too much.) It’s best to use them only when the emphasis in a sentence would otherwise not be clear — but maybe then you should rewrite the sentence so that the emphasis really is clear
 15. Take responsibility of your writing (as much as you can)
 16. Organization of paper in the sense of introduction (example: https://arxiv.org/pdf/1710.10196.pdf)
+17. - Good point. An introduction has three goals: (a) explain the problem being addressed, (b) explain why it is important to solve, and (c) give an intuitive overview of the solution
