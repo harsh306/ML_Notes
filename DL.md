@@ -22,3 +22,5 @@
 
 ### Structuring Your Tensorflow Models [Link](https://danijar.com/structuring-your-tensorflow-models/)
 
+### AUTODIFF [Link](http://videolectures.net/deeplearning2017_johnson_automatic_differentiation/)
+
