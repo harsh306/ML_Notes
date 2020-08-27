@@ -48,3 +48,5 @@
 ### Kalman_filter [Link](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 ### Significance Test to compare infernce  [Link1](https://machinelearningmastery.com/statistical-significance-tests-for-comparing-machine-learning-algorithms/)[Link2](https://machinelearningmastery.com/mcnemars-test-for-machine-learning/)
+
+### Parametric and non-Parametric [Link](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
