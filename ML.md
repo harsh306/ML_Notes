@@ -30,6 +30,7 @@
 
 ### ISOMAP [Link](https://blog.paperspace.com/dimension-reduction-with-isomap/)
 
+### Compressed Sensing [Link](https://github.com/dmh43/research/blob/master/theory_group/compressed_sensing/notes.pdf)
 
 ### SMOTE [Link](http://rikunert.com/SMOTE_explained)
 
