@@ -12,6 +12,8 @@
 
 ### GAN Family [Link](https://docs.google.com/document/d/e/2PACX-1vQVY0RSSyR_oH6_ruJjIj7MTQ9IrmBNq9uWVT8jncQ7FGfIYkWyRQIAhnGAOs0HG6Zz_Yh_9fHJBf-Z/pub)
 
+### Evaluate GANs output [Link](https://arxiv.org/pdf/1802.03446.pdf) [Link2](https://lear.inrialpes.fr/people/alahari/papers/shmelkov18.pdf)
+
 ## Image to Image Translation
 ### Cycle GAN paper or [Link](https://towardsdatascience.com/cyclegan-learning-to-translate-images-without-paired-training-data-5b4e93862c8d) 
 
