@@ -34,3 +34,6 @@
 * https://www.coursera.org/
 * https://ocw.mit.edu/index.htm
 * https://onlinecourses.nptel.ac.in/noc17_cs26
+
+If you find this helpful Buy me a coffee! :) 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F02R7JR)
