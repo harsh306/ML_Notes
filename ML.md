@@ -22,7 +22,7 @@
 
 ### Decision Trees and Cross Entropy [Link](https://docs.google.com/document/d/e/2PACX-1vTBOla5TwuUQbA6ZhrQi29f361Vl8-kUz_F9rA2jsl1DzAs_xoV5duoauUOovF2EoloVAtglku7wFib/pub)
 
-### SVM [Link](https://svmtutorial.online/download.php?file=SVM_tutorial.pdf)
+### SVM [Link](https://svmtutorial.online/download.php?file=SVM_tutorial.pdf) [Link2](https://www.svm-tutorial.com/category/svm-tutorial/math-svm-tutorial/)
 
 ### Bayes Theorem [Link](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
 
