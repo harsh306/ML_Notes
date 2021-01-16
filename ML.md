@@ -51,3 +51,5 @@
 ### Significance Test to compare infernce  [Link1](https://machinelearningmastery.com/statistical-significance-tests-for-comparing-machine-learning-algorithms/)[Link2](https://machinelearningmastery.com/mcnemars-test-for-machine-learning/)
 
 ### Parametric and non-Parametric [Link](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
+
+### NDCG, MRR [Link](https://medium.com/swlh/rank-aware-recsys-evaluation-metrics-5191bba16832)
