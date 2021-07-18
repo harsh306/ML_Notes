@@ -11,7 +11,7 @@
 #### Triplet Loss [Link](https://omoindrot.github.io/triplet-loss)
 
 ### Evaluation
-#### NDCG/DCG Calcucalation [Link](https://medium.com/@_init_/notes-on-the-ndcg-metric-used-in-the-visual-dialog-challenge-2019-90cf443b93dc) 
+#### NDCG/DCG Calculation [Link](https://medium.com/@_init_/notes-on-the-ndcg-metric-used-in-the-visual-dialog-challenge-2019-90cf443b93dc) 
 #### MRR and NDCG [Link](https://medium.com/swlh/rank-aware-recsys-evaluation-metrics-5191bba16832)
 
 
