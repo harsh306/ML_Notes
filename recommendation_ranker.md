@@ -4,6 +4,7 @@
 #### Context Aware Attention rank [Link](https://arxiv.org/pdf/2005.10084.pdf)
 #### Neural NDCG [Link](https://github.com/allegro/allRank)
 #### Word2vec + Application to recommendation:[Link](http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/) 
+#### Learning Text similarity [Link](https://aclanthology.org/W16-1617.pdf)
 
 ### Losses
 #### CrossEntrop Loss [Link](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
