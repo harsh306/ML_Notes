@@ -11,6 +11,7 @@
 #### CrossEntrop Loss [Link](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 #### Siamese Ranking Loss [Link](https://gombru.github.io/2019/04/03/ranking_loss/)
 #### Triplet Loss [Link](https://omoindrot.github.io/triplet-loss)
+#### Contrastive Learning [Link](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)
 
 ### Evaluation
 #### NDCG/DCG Calculation [Link](https://medium.com/@_init_/notes-on-the-ndcg-metric-used-in-the-visual-dialog-challenge-2019-90cf443b93dc) 
