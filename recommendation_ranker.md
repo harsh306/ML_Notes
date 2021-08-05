@@ -1,6 +1,7 @@
 ### Ranking:
 #### Learning-to-Rank basics [Link](https://www.nowpublishers.com/article/Details/INR-016)
 #### Learning-to-Rank IR and NLP [Link](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)
+#### Cornell Learning-to-rank [Link](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf)
 #### Lamnda Mart, Rank, Ranknet [Link](https://www.microsoft.com/en-us/research/uploads/prod/2016/02/MSR-TR-2010-82.pdf)
 #### Context Aware Attention rank [Link](https://arxiv.org/pdf/2005.10084.pdf)
 #### Neural NDCG [Link](https://github.com/allegro/allRank)
