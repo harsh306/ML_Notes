@@ -7,6 +7,7 @@
 #### Neural NDCG [Link](https://github.com/allegro/allRank)
 #### Word2vec + Application to recommendation:[Link](http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/) 
 #### Learning Text similarity [Link](https://aclanthology.org/W16-1617.pdf)
+#### Search/User and Item [Link](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Rendle2010FM.pdf)
 
 ### Losses
 #### CrossEntrop Loss [Link](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
