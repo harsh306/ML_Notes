@@ -1,5 +1,8 @@
+#### Gauss Elimination and Row Echleon form [Link](https://www.youtube.com/watch?v=eDb6iugi6Uk)
+#### Row space and Col Space [Link](https://www.youtube.com/watch?v=DNc-hMtDc-I)
 #### Diaganol Matrix [Link](https://byjus.com/maths/diagonal-matrix/)
 #### Orthogonal Matrix [Link](https://medium.com/jun-devpblog/linear-algebra-9-properties-of-orthogonal-matrices-840b1d28ac20)
 #### Symmetric Matrix and when Positive Definete? [Link](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/MIT18_06SCF11_Ses3.1sum.pdf)
 #### PSDM and minima Hessian [Link](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/MIT18_06SCF11_Ses3.3sum.pdf)
 #### Gram Schmidt process [Link](https://www.youtube.com/watch?v=Aslf3KGq2UE) [Link2](https://www.youtube.com/watch?v=0MtwqhIwdrI)
+#### SVD [Link](https://www.youtube.com/watch?v=Nx0lRBaXoz4) [Link](https://gregorygundersen.com/blog/2018/12/20/svd-proof/#1-gram-matrices-as-positive-semi-definite)
