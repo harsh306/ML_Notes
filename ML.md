@@ -53,3 +53,5 @@
 ### Parametric and non-Parametric [Link](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
 
 ### NDCG, MRR [Link](https://medium.com/swlh/rank-aware-recsys-evaluation-metrics-5191bba16832)
+
+### Gradient Boosting [Link](https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/)
