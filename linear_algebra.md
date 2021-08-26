@@ -1,3 +1,4 @@
+#### Linear algebra Viz [Link](https://intuitive-math.club/linear-algebra/)
 #### Gauss Elimination and Row Echleon form [Link](https://www.youtube.com/watch?v=eDb6iugi6Uk)
 #### Row space and Col Space [Link](https://www.youtube.com/watch?v=DNc-hMtDc-I)
 #### Diaganol Matrix [Link](https://byjus.com/maths/diagonal-matrix/)
