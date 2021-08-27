@@ -1,6 +1,6 @@
 #### Linear algebra Viz [Link](https://intuitive-math.club/linear-algebra/)
 #### Gauss Elimination and Row Echleon form [Link](https://www.youtube.com/watch?v=eDb6iugi6Uk)
-#### Row space and Col Space [Link](https://www.youtube.com/watch?v=DNc-hMtDc-I)
+#### Row space and Col Space [Link](https://www.youtube.com/watch?v=DNc-hMtDc-I) [Link](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/matrix-vector-products)
 #### Diaganol Matrix [Link](https://byjus.com/maths/diagonal-matrix/)
 #### Orthogonal Matrix [Link](https://medium.com/jun-devpblog/linear-algebra-9-properties-of-orthogonal-matrices-840b1d28ac20)
 #### Symmetric Matrix and when Positive Definete? [Link](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/MIT18_06SCF11_Ses3.1sum.pdf)
