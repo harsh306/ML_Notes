@@ -8,3 +8,8 @@
 #### PSDM and minima Hessian [Link](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/MIT18_06SCF11_Ses3.3sum.pdf)
 #### Gram Schmidt process [Link](https://www.youtube.com/watch?v=Aslf3KGq2UE) [Link2](https://www.youtube.com/watch?v=0MtwqhIwdrI)
 #### SVD [Link](https://www.youtube.com/watch?v=Nx0lRBaXoz4) [Link](https://gregorygundersen.com/blog/2018/12/20/svd-proof/#1-gram-matrices-as-positive-semi-definite)
+
+## After above warmups one can easily follow these lectures from Prof. Gilbert Strang
+
+#### Matrix Methods in Data Analysis [Link](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+#### Linear Algebra [Link](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
