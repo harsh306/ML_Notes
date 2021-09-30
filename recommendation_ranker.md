@@ -10,6 +10,8 @@
 #### Learning Text similarity [Link](https://aclanthology.org/W16-1617.pdf)
 #### Search/User and Item [Link](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Rendle2010FM.pdf)
 #### Blogs Overview [Link](https://towardsdatascience.com/recommendation-system-series-part-1-an-executive-guide-to-building-recommendation-system-608f83e2630a)
+#### Entity linking [Link](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/reinanda-2020-knowledge.pdf)
+#### Knowledge Graph 2020 Survey [Link](https://arxiv.org/pdf/2003.00911.pdf) 
 
 ### Losses
 
