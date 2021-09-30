@@ -31,7 +31,7 @@
 #### Google Play Store [Link](https://deepmind.com/blog/article/Advanced-machine-learning-helps-Play-Store-users-discover-personalised-apps)
 #### Slack Channel Recc. [Link](https://slack.engineering/personalized-channel-recommendations-in-slack/)
 #### Etsy [Link](https://dl.acm.org/doi/abs/10.1145/3383313.3411480)
-#### Spotify [Link](https://dl.acm.org/doi/10.1145/3383313.3412248)
+#### Spotify [Publications](https://research.atspotify.com/publication/) [Link](https://dl.acm.org/doi/10.1145/3383313.3412248)
 #### Alibaba [Link](https://dl.acm.org/doi/10.1145/3383313.3412238)
 #### Twitter [Link](https://dl.acm.org/doi/10.1145/3383313.3418486)
 #### MatchMaking [Link](https://dl.acm.org/doi/10.1145/3383313.3411558)
