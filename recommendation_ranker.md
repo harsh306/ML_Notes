@@ -6,7 +6,6 @@
 #### Lamnda Mart, Rank, Ranknet [Link](https://www.microsoft.com/en-us/research/uploads/prod/2016/02/MSR-TR-2010-82.pdf)
 #### Context Aware Attention rank [Link](https://arxiv.org/pdf/2005.10084.pdf)
 #### Neural NDCG [Link](https://github.com/allegro/allRank)
-#### Word2vec + Application to recommendation:[Link](http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/) 
 #### Learning Text similarity [Link](https://aclanthology.org/W16-1617.pdf)
 #### Search/User and Item [Link](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Rendle2010FM.pdf)
 #### Blogs Overview [Link](https://towardsdatascience.com/recommendation-system-series-part-1-an-executive-guide-to-building-recommendation-system-608f83e2630a)
@@ -28,6 +27,7 @@
 
 ### Case Studies: (Follow Recsys Conference for more)
 
+#### Overview Application to recommendation:[Link](http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/) 
 #### Google Play Store [Link](https://deepmind.com/blog/article/Advanced-machine-learning-helps-Play-Store-users-discover-personalised-apps)
 #### Slack Channel Recc. [Link](https://slack.engineering/personalized-channel-recommendations-in-slack/)
 #### Etsy [Link](https://dl.acm.org/doi/abs/10.1145/3383313.3411480) [Link-talk](https://www.youtube.com/watch?v=UbytXZLqezo)
@@ -37,5 +37,6 @@
 #### MatchMaking [Link](https://dl.acm.org/doi/10.1145/3383313.3411558)
 #### Netflix [Link](https://dl.acm.org/doi/10.1145/3383313.3418484) [Link2](https://research.netflix.com/research-area/recommendations)
 #### Linkedin [Link](https://www.youtube.com/watch?v=4mG7morAasw)
-
+#### Facebook [Link](https://www.youtube.com/watch?v=5xcd0V9m6Xs)
+#### Youtube RL [Link](https://www.youtube.com/watch?v=HEqQ2_1XRTs)
 
