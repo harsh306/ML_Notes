@@ -36,5 +36,6 @@
 #### Twitter [Link](https://dl.acm.org/doi/10.1145/3383313.3418486)
 #### MatchMaking [Link](https://dl.acm.org/doi/10.1145/3383313.3411558)
 #### Netflix [Link](https://dl.acm.org/doi/10.1145/3383313.3418484) [Link2](https://research.netflix.com/research-area/recommendations)
+#### Linkedin [Link](https://www.youtube.com/watch?v=4mG7morAasw)
 
 
