@@ -26,7 +26,7 @@
 
 
 ### Case Studies: (Follow Recsys Conference for more)
-
+#### In practice Blog [Link](https://towardsdatascience.com/recommender-systems-in-practice-cef9033bb23a)
 #### Overview Application to recommendation:[Link](http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/) 
 #### Google Play Store [Link](https://deepmind.com/blog/article/Advanced-machine-learning-helps-Play-Store-users-discover-personalised-apps)
 #### Slack Channel Recc. [Link](https://slack.engineering/personalized-channel-recommendations-in-slack/)
