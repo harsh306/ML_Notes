@@ -4,6 +4,8 @@
 
 ### [Machine Learning](./ML.md) 
 
+### [ML Case Study Mocks Youtube](https://www.youtube.com/watch?v=12Ry6kGPQVs&list=PLXXms4piUg2gZXEEQRxXzkbPxVqLKsxaT)
+
 #### [ML Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229.html)
 
 ### [Deep Learning](./DL.md)
