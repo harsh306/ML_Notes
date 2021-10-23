@@ -25,7 +25,31 @@
 #### MRR and NDCG [Link](https://medium.com/swlh/rank-aware-recsys-evaluation-metrics-5191bba16832)
 
 
+
+#### How to achieve Scale? 
+
+#### App Store
+
+#### Image/Video Search and Discovery 
+
+#### Songs
+
+#### Fashion
+
+#### Netflix Movies
+
+#### Ads ranking 
+
+#### Shopping multiple products 
+
+#### Jobs Recommenadtion 
+
+
+
+
+
 ### Case Studies: (Follow Recsys Conference for more)
+#### ML Interview Case Study by Patrick: [Link](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 #### In practice Blog [Link](https://towardsdatascience.com/recommender-systems-in-practice-cef9033bb23a)
 #### Overview Application to recommendation:[Link](http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/) 
 #### Google Play Store [Link](https://deepmind.com/blog/article/Advanced-machine-learning-helps-Play-Store-users-discover-personalised-apps)
@@ -39,4 +63,6 @@
 #### Linkedin [Link](https://www.youtube.com/watch?v=4mG7morAasw)
 #### Facebook [Link](https://www.youtube.com/watch?v=5xcd0V9m6Xs)
 #### Youtube RL [Link](https://www.youtube.com/watch?v=HEqQ2_1XRTs)
+
+#### 
 
