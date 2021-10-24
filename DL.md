@@ -25,3 +25,10 @@
 ### AUTODIFF [Link](http://videolectures.net/deeplearning2017_johnson_automatic_differentiation/)
 
 ### JAX [Link](https://colinraffel.com/blog/you-don-t-know-jax.html)
+
+### Vanishing Gradients [Link](https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/) [Link2](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
+
+#### Batch Normalization [Link](https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739)
+
+
+
