@@ -25,6 +25,7 @@
 
 #### Common Problems and Tricks
 - Vanishing Gradients [Link](https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/) [Link2](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
+- Exploding Gradients 
 - Batch Normalization [Link](https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739)
 - Skip Connections
 - Modal Collapse in GANs [Link]()
