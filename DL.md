@@ -1,7 +1,7 @@
 # Deep Learning Basics [Quick reads]
 
 #### Prerequisites 
-- Basic Matrix and Algebra 
+- Linear Algebra and Calculus
 - Intro to probability
 - Entropy and information
 - Loss Functions
