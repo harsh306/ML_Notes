@@ -1,6 +1,13 @@
 # Deep Learning Basics [Quick reads]
 
-#### Basic Matrix and Algebra 
+#### Prerequisites 
+- Basic Matrix and Algebra 
+- Intro to probability
+- Entropy and information
+- Loss Functions
+- Maximum Likelihood Estimate
+
+
 #### Backpropogation and Initializations 
 - Softmax CrossEntropy Backprop [Link](https://www.ics.uci.edu/~pjsadows/notes.pdf)
 - Activations and differentiations
@@ -19,7 +26,7 @@
 #### Types of Network:
 - Convolutional Neural Networks [Link](https://docs.google.com/document/d/e/2PACX-1vRG_-7Xe6DTwg-yfwPmYMoezS8WDYpWjC7jTnQeJnA4dDAiXlLBHwgkzQl_j-fCpZQTmuYU99ePGXww/pub)
 - LSTMs and RNNs
-- GANs 
+- GANs [Link](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 - Transformer and attention [Link](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 
 
@@ -31,8 +38,6 @@
 - Batch Normalization [Link](https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739)
 - Skip Connections
 - Modal Collapse in GANs [Link]()
-
-
 
 
 # Deep Learning General 
