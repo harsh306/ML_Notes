@@ -40,6 +40,9 @@
 - Modal Collapse in GANs [Link]()
 
 
+
+
+
 # Deep Learning General 
 
 #### [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)
