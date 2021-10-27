@@ -1,12 +1,17 @@
 #  Notes
 
+### [Linear Algebra](./rsrc/linear_algebra.md)
 
 ### [Machine Learning](./rsrc/ML.md) 
-
 
 ### [Deep Learning](./rsrc/DL.md)
 
 ### [Learing to rank in Search and recommendations](./resrc/recommender_ranker.md)
+
+### [NLP](./rsrc/NLP.md)
+
+### [Computer Vision](./rsrc/VISION.md)
+
 
 ## Acknowledgments
 
