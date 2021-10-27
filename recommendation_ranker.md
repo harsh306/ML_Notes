@@ -18,6 +18,7 @@
 - Cornell Learning-to-rank [Link](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf)
 - Lamnda Mart, Rank, Ranknet [Link](https://www.microsoft.com/en-us/research/uploads/prod/2016/02/MSR-TR-2010-82.pdf)
 - Knowledge Graph 2020 Survey [Link](https://arxiv.org/pdf/2003.00911.pdf) 
+- Univerty of Washington Retrival Course [Link](https://www.coursera.org/learn/ml-clustering-and-retrieval/)
 
 
 
