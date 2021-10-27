@@ -6,7 +6,7 @@
 
 ### [Deep Learning](./rsrc/DL.md)
 
-### [Learing to rank in Search and recommendations](./rsrc/recommendqtion_ranker.md)
+### [Learing to rank in Search and recommendations](./rsrc/recommendation_ranker.md)
 
 ### [NLP](./rsrc/NLP.md)
 
