@@ -8,8 +8,11 @@
 - Contrastive Learning [Link](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)
 
 ### Evaluation
+- Precision and Recall [calculation](https://blog.xrds.acm.org/2018/01/precision-recall-needed-search-engines/) 
+  -  [[Query Expansion]](https://medium.com/@dtunkelang/in-search-of-recall-cf42f5f69da9) [[better explained]](https://opensourceconnections.com/blog/2016/03/30/search-precision-and-recall-by-example/)
 - NDCG/DCG Calculation [Link](https://medium.com/@_init_/notes-on-the-ndcg-metric-used-in-the-visual-dialog-challenge-2019-90cf443b93dc) 
 - MRR and NDCG [Link](https://medium.com/swlh/rank-aware-recsys-evaluation-metrics-5191bba16832)
+- MAP and all with pros and cons [Link](https://medium.com/swlh/rank-aware-recsys-evaluation-metrics-5191bba16832)
 
 
 # Ranking General:
