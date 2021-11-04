@@ -15,7 +15,7 @@
 - MAP and all with pros and cons [Link](https://medium.com/swlh/rank-aware-recsys-evaluation-metrics-5191bba16832)
 
 
-# Ranking General:
+# Retrival and Ranking General:
 - Learning-to-Rank basics [Link](https://www.nowpublishers.com/article/Details/INR-016)
 - Learning-to-Rank IR and NLP [Link](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)
 - Cornell Learning-to-rank [Link](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf)
@@ -23,6 +23,7 @@
 - Knowledge Graph 2020 Survey [Link](https://arxiv.org/pdf/2003.00911.pdf) 
 - Univerty of Washington Retrival Course [Link](https://www.coursera.org/learn/ml-clustering-and-retrieval/)
   - Covers clustering, k-nn, k-means, Map-reduce k-means, hirerarchical clustering, dendograms. 
+  - Cosine is not a metric, Cosine vs Eucledia distance, When to normalize feature vectors
 
 
 
