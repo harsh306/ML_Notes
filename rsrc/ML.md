@@ -2,7 +2,7 @@
 
 ### Core Algorithms
 - Descion Trees: [Link](https://towardsdatascience.com/understanding-decision-trees-for-classification-python-9663d683c952) 
-- Linear Regression [Link]
+- Linear Regression - Elements of Statistical Learning (pages 43-49)
 - Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
 - Bagging vs Boosting
 - Bayes Theorem [Link](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
