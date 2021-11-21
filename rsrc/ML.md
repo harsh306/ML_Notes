@@ -1,8 +1,15 @@
 # Machine Learning basics
 
 ### Core Algorithms
+- Distributions
+  - Binomial Distribution (0,1)
+  - Bernaulii Distribution (0, 1, 2, ..k)
+  - Normal Distribution (Gaussian)
+  - Uniform Distribution  ()
 - Descion Trees: [Link](https://towardsdatascience.com/understanding-decision-trees-for-classification-python-9663d683c952) 
 - Linear Regression - Elements of Statistical Learning (pages 43-49)
+  -  R-square vs Adjusted R-2 coefficient of determintation
+  -  
 - Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
 - Bagging vs Boosting
 - Bayes Theorem [Link](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
