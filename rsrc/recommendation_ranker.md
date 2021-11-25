@@ -1,7 +1,7 @@
 # Ranking (Retival and Recommendation) [Quick Reads]
 
-### Ranking Losses
-
+### Ranking 
+- Pointwise vs Pairwise Ranking [Link](https://www.ejournals.eu/pliki/art/9011/)
 - CrossEntropy Loss [Link](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 - Siamese Ranking Loss (contrastive and triplet) [Link](https://gombru.github.io/2019/04/03/ranking_loss/)
 - Triplet Loss [Link](https://omoindrot.github.io/triplet-loss)
