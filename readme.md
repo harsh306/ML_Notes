@@ -12,6 +12,8 @@
 
 ### [Computer Vision](./rsrc/VISION.md)
 
+### [Neural Network Optimization](https://github.com/harsh306/awesome-nn-optimization)
+
 
 ## Acknowledgments
 
