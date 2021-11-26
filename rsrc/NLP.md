@@ -16,6 +16,7 @@
 
 ### Topic Modeling
 - LDA Topic Modelling [Link](https://www.youtube.com/watch?v=3mHy4OSyRf0) [Link-Code](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) 
+- - Cornell Topic Model [Link](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf)
 - LSH +  (Any embedding Method such as Bert, word2vec, tf-idf + K-means
 
 
