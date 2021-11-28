@@ -28,6 +28,7 @@
 - Least Square Error [Link](https://towardsdatascience.com/ml-notes-why-the-least-square-error-bf27fdd9a721)
 - Information Theory [Link](https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d)
 - Parametric and non-Parametric [Link](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
+- ML FAQ [Link](https://sebastianraschka.com/faq/index.html)
 
 ### Statistics and Probability 
 - Descriptive and Inferential Statistics 
