@@ -12,6 +12,8 @@
 - Momentum [Link](https://distill.pub/2017/momentum/)
 
 #### Backpropogation and Initializations 
+- Xavier/Glorot [Link](https://www.deeplearning.ai/ai-notes/initialization/)
+- He init [Link](https://medium.com/@shoray.goel/kaiming-he-initialization-a8d9ed0b5899)
 - Softmax CrossEntropy Backprop [Link](https://www.ics.uci.edu/~pjsadows/notes.pdf)
 - Activations and differentiations
 
