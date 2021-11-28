@@ -34,7 +34,7 @@
 
 #### Common Problems and Tricks
 - Vanishing Gradients [Link](https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/) [Link2](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
-- Exploding Gradients 
+- Exploding Gradients [Link](https://www.machinecurve.com/index.php/2019/09/16/he-xavier-initialization-activation-functions-choose-wisely/)
 - Data Augment [Stanford](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks) 
 - Best practice [Andrej](http://karpathy.github.io/2019/04/25/recipe/)
 - Batch Normalization [Link](https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739)
