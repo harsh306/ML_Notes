@@ -25,6 +25,7 @@
 - Dummy Variable Trap[Link](https://docs.google.com/document/d/e/2PACX-1vTCgloYD87WQK4zqqV0YwZpQuuB6etoGE-2n_AfBSwu9X4QDYIawpu-8Y44UL2xPKiZ2EWyQtPJnVFI/pub)
 - My MLE-Notes[Link](https://github.com/harsh306/Notes-MLE/tree/master/pdf)
 - Log-likelihood [Link](https://blog.metaflow.fr/ml-notes-why-the-log-likelihood-24f7b6c40f83) [Link2](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/)
+  - Negative log likelihood and Cross Entropy [Link](https://glassboxmedicine.com/2019/12/07/connections-log-likelihood-cross-entropy-kl-divergence-logistic-regression-and-neural-networks/)
 - Least Square Error [Link](https://towardsdatascience.com/ml-notes-why-the-least-square-error-bf27fdd9a721)
 - Information Theory [Link](https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d)
 - Parametric and non-Parametric [Link](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
