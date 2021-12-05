@@ -9,6 +9,7 @@
 
 
 #### Gradient Descent and Optimization [Link1](https://docs.google.com/document/d/e/2PACX-1vSRkLjI5Kpt8dPyN5wylb1ZgkdhzKTv21MrRIWktbOymwHzHOLXzxer4K57jnVmSa5kybLieV8Lc4CF/pub) [Link2](https://docs.google.com/document/d/e/2PACX-1vQmomWlyGsNQUyvBHRK6YMhiLJ6ee0PWPG4hZZyLRFHFE412lZgO5qHZ7iUkxltM0rxhJ8uf79bZSSk/pub)
+- Taylor Series Approximation [Link](https://suzyahyah.github.io/calculus/optimization/2018/04/06/Taylor-Series-Newtons-Method.html)
 - Momentum [Link](https://distill.pub/2017/momentum/)
 
 #### Backpropogation and Initializations 
