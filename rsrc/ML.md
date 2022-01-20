@@ -1,16 +1,6 @@
 # Machine Learning basics
 
 ### Core Algorithms
-- Distributions
-  - Binomial Distribution (0,1)
-  - Bernaulii Distribution (0, 1, 2, ..k)
-  - Normal Distribution (Gaussian)
-  - Uniform Distribution  ()
-- Probablity 
-  - Conditional Probability
-  - Bayes Theorem
-  - Interview Q/A [Link](https://github.com/kojino/120-Data-Science-Interview-Questions/blob/master/probability.md) [Link](https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street)
-  - 
 - Descion Trees: [Link](https://towardsdatascience.com/understanding-decision-trees-for-classification-python-9663d683c952) 
 - Linear Regression - Elements of Statistical Learning (pages 43-49)
   -  R-square vs Adjusted R-2 coefficient of determintation
@@ -41,6 +31,15 @@
 - ML FAQ [Link](https://sebastianraschka.com/faq/index.html)
 
 ### Statistics and Probability 
+- Distributions
+  - Binomial Distribution (0,1)
+  - Bernaulii Distribution (0, 1, 2, ..k)
+  - Normal Distribution (Gaussian)
+  - Uniform Distribution  ()
+- Probablity 
+  - Conditional Probability
+  - Bayes Theorem
+  - Interview Q/A [Link](https://github.com/kojino/120-Data-Science-Interview-Questions/blob/master/probability.md) [Link](https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street)
 - Descriptive and Inferential Statistics 
 - Hypothesis testing
 - p-value
