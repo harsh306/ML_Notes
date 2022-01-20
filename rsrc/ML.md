@@ -11,7 +11,7 @@
   -  R-square vs Adjusted R-2 coefficient of determintation
   -  
 - Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
-- Bagging vs Boosting
+- Bagging vs Boosting and Stacking [Link](https://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning)
 - Bayes Theorem [Link](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
 - Naive Bayes [Link]()
 - Random Forest (descion Trees + Bagging + random feature subset)
