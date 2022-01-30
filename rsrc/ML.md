@@ -34,7 +34,7 @@
 ### Statistics and Probability 
 - Permutations = n!/(n-r)! ; n is total number of objects and r is number of objects selected
 - Combinations = n!/{r!.(n-r)!} ; n is total number of objects and r is number of objects selected
-- Rule of product: In combinatorics, the rule of product or multiplication principle is a basic counting principle (a.k.a. the fundamental principle of counting). Stated simply, it is the intuitive idea that if there are a ways of doing something and b ways of doing another thing, then there are a · b ways of performing both actions. Example for first slot 5 options, for secod and third also 5. So there are total 5x5x5 ways of considering alll combinations. 
+- Rule of product (src: wikipedia): In combinatorics, the rule of product or multiplication principle is a basic counting principle (a.k.a. the fundamental principle of counting). Stated simply, it is the intuitive idea that if there are a ways of doing something and b ways of doing another thing, then there are a · b ways of performing both actions. Example for first slot 5 options, for secod and third also 5. So there are total 5x5x5 ways of considering alll combinations. 
 - Distributions
   - Binomial Distribution (0,1)
   - Bernaulii Distribution (0, 1, 2, ..k)
