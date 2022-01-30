@@ -32,6 +32,8 @@
 - ML FAQ [Link](https://sebastianraschka.com/faq/index.html)
 
 ### Statistics and Probability 
+- Permutations = n!/(n-r)! ; n is total number of objects and r is number of objects selected
+- Combinations = n!/{r!.(n-r)!} ; n is total number of objects and r is number of objects selected
 - Distributions
   - Binomial Distribution (0,1)
   - Bernaulii Distribution (0, 1, 2, ..k)
