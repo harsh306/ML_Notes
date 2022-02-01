@@ -56,6 +56,7 @@
 - Goolge UI retrival [Link](https://arxiv.org/pdf/2110.07775.pdf)
 - Facebook DRLM [Link](https://arxiv.org/pdf/1906.00091.pdf)
 - Bookings com [Link](https://booking.ai/booking-com-recsys-2021-d65a1ee98cea)
+- Stitch fix [Link](https://algorithms-tour.stitchfix.com/)
 
 
 
