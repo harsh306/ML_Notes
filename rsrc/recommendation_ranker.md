@@ -55,6 +55,7 @@
 - Expedia [Link1](http://ceur-ws.org/Vol-2959/paper3.pdf) [Link2](https://arxiv.org/abs/1910.03943)
 - Goolge UI retrival [Link](https://arxiv.org/pdf/2110.07775.pdf)
 - Facebook DRLM [Link](https://arxiv.org/pdf/1906.00091.pdf)
+- Bookings com [Link](https://booking.ai/booking-com-recsys-2021-d65a1ee98cea)
 
 
 
