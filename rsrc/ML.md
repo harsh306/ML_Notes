@@ -33,10 +33,10 @@
 - MLE vs MAP [Link](https://wiseodd.github.io/techblog/2017/01/01/mle-vs-map/)
 
 ### Statistics and Probability 
-
-- Permutations = n!/(n-r)! ; n is total number of objects and r is number of objects selected
-- Combinations = n!/{r!.(n-r)!} ; n is total number of objects and r is number of objects selected
-- Rule of product (src: wikipedia): In combinatorics, the rule of product or multiplication principle is a basic counting principle (a.k.a. the fundamental principle of counting). Stated simply, it is the intuitive idea that if there are a ways of doing something and b ways of doing another thing, then there are a · b ways of performing both actions. Example for first slot 5 options, for secod and third also 5. So there are total 5x5x5 ways of considering alll combinations. 
+- Counting, Permutations, Combinations [Link](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/)
+  - Permutations = n!/(n-r)! ; n is total number of objects and r is number of objects selected
+  - Combinations = n!/{r!.(n-r)!} ; n is total number of objects and r is number of objects selected
+  - Rule of product (src: wikipedia): In combinatorics, the rule of product or multiplication principle is a basic counting principle (a.k.a. the fundamental principle of counting). Stated simply, it is the intuitive idea that if there are a ways of doing something and b ways of doing another thing, then there are a · b ways of performing both actions. Example for first slot 5 options, for secod and third also 5. So there are total 5x5x5 ways of considering alll combinations. 
 - Random variable [Link](https://www.khanacademy.org/math/ap-statistics/random-variables-ap/discrete-random-variables/)
   - X: Number of heads after tossing a coing 3 times
   - pdf: probability/number of heads(0,1,2,3)
