@@ -18,6 +18,7 @@
 ## Acknowledgments
 
 * https://www.coursera.org/
+* https://www.khanacademy.org/
 * https://ocw.mit.edu/index.htm
 * https://onlinecourses.nptel.ac.in/noc17_cs26
 
