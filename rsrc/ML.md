@@ -30,15 +30,19 @@
 - Information Theory [Link](https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d)
 - Parametric and non-Parametric [Link](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
 - ML FAQ [Link](https://sebastianraschka.com/faq/index.html)
+- MLE vs MAP [Link](https://wiseodd.github.io/techblog/2017/01/01/mle-vs-map/)
 
 ### Statistics and Probability 
+
 - Permutations = n!/(n-r)! ; n is total number of objects and r is number of objects selected
 - Combinations = n!/{r!.(n-r)!} ; n is total number of objects and r is number of objects selected
 - Rule of product (src: wikipedia): In combinatorics, the rule of product or multiplication principle is a basic counting principle (a.k.a. the fundamental principle of counting). Stated simply, it is the intuitive idea that if there are a ways of doing something and b ways of doing another thing, then there are a · b ways of performing both actions. Example for first slot 5 options, for secod and third also 5. So there are total 5x5x5 ways of considering alll combinations. 
-- Sample Distribution [Link](https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/what-is-sampling-distribution/v/introduction-to-sampling-distributions)
-  - Population parameters (population mean, std, proportions) etc.
-  - Take a random sample from this distribution  (sample mean, std dev etc)
-  - Central limit theorem (as you take multiple samples more like infinite samples). Samples grows, plot it on frequency distribution y-axis freuency and x-axis sample means. It converges to normal distribution. It applies to means, sums and variance. 
+- Descriptive Statistics
+  - Sample Distribution [Link](https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/what-is-sampling-distribution/v/introduction-to-sampling-distributions)
+    - Population parameters (population mean, std, proportions) etc.
+    - Take a random sample from this distribution  (sample mean, std dev etc)
+    - Central limit theorem (as you take multiple samples more like infinite samples). Samples grows, plot it on frequency distribution y-axis freuency and x-axis sample means. It converges to normal distribution. It applies to means, sums and variance. 
+    - This later becomes sampling distribution of sample mean or any statistics. 
 - Distributions
   - Binomial Distribution (0,1)
   - Bernaulii Distribution (0, 1, 2, ..k)
@@ -73,10 +77,6 @@
 ### K-NN [Link](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 
 ### Stratified Sampling [Link](https://en.wikipedia.org/wiki/Stratified_sampling)
-
-
-
-### MLE vs MAP [Link](https://wiseodd.github.io/techblog/2017/01/01/mle-vs-map/)
 
 ### Categorical data [Link](https://towardsdatascience.com/an-overview-of-categorical-input-handling-for-neural-networks-c172ba552dee)
 
