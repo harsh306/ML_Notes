@@ -6,7 +6,7 @@
 - NLP pre-processing [Link](https://towardsdatascience.com/nlp-text-preprocessing-a-practical-guide-and-template-d80874676e79)
 - Word2Vec [Link](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/); Negative smapling [Link](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/) [Link2](https://www.coursera.org/learn/nlp-sequence-models/lecture/Iwx0e/negative-sampling)
 - Sequence Models [Link](https://docs.google.com/document/d/1F3ldWUp7zy0xmVbWS9RLSeCf_SNuppzq4Bd_9AjkI8o/edit?usp=sharing) [Link2](https://distill.pub/2019/memorization-in-rnns/)
-- [Transformer](http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/)
+- [Transformer](http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/) [Link2](https://www.youtube.com/watch?v=4Bdc55j80l8) [Link3](https://www.youtube.com/watch?v=XSSTuhyAmnI)
 
 
 ### Named Entity Recognition
