@@ -39,6 +39,7 @@
 - Data Augment [Stanford](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks) 
 - Best practice [Andrej](http://karpathy.github.io/2019/04/25/recipe/)
 - Batch Normalization [Link](https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739)
+  - Covariate shift in inputs [Link](https://www.youtube.com/watch?v=nUUqwaxLnWs)  
 - Skip Connections
 - Modal Collapse in GANs [Link]()
 
