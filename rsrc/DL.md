@@ -24,7 +24,8 @@
 
 #### Types of Network:
 - Convolutional Neural Networks [Link](https://docs.google.com/document/d/e/2PACX-1vRG_-7Xe6DTwg-yfwPmYMoezS8WDYpWjC7jTnQeJnA4dDAiXlLBHwgkzQl_j-fCpZQTmuYU99ePGXww/pub)
-- LSTMs and RNNs
+- LSTMs, GRUs and RNNs
+- Autoencoder, PCA 
 - GANs [Link](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 - Transformer and attention [Link](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 
