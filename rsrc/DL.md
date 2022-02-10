@@ -16,8 +16,9 @@
 - Xavier/Glorot [Link](https://www.deeplearning.ai/ai-notes/initialization/)
 - He init [Link](https://medium.com/@shoray.goel/kaiming-he-initialization-a8d9ed0b5899)
 - Softmax CrossEntropy Backprop [Link](https://www.ics.uci.edu/~pjsadows/notes.pdf)
+- RNN Backprop
+- Attention Backprop
 - Activations and differentiations
-
 
 #### Unsupervised Pre-training, Fine-tuning[Link](https://www.youtube.com/watch?v=Oq38pINmddk)
 
@@ -32,19 +33,16 @@
 - L1
 - L2
 
-
 #### Common Problems and Intutions
+- Best practice [Andrej](http://karpathy.github.io/2019/04/25/recipe/)
 - Vanishing Gradients [Link](https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/) [Link2](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
 - Exploding Gradients [Link](https://www.machinecurve.com/index.php/2019/09/16/he-xavier-initialization-activation-functions-choose-wisely/)
-- Data Augment [Stanford](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks) 
-- Best practice [Andrej](http://karpathy.github.io/2019/04/25/recipe/)
 - Batch Normalization [Link](https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739)
   - Covariate shift in inputs [Link](https://www.youtube.com/watch?v=nUUqwaxLnWs)  
-- Skip Connections
+- Skip Connections, ResNets [Link](https://www.youtube.com/watch?v=RYth6EbBUqM) [ResNet](https://www.youtube.com/watch?v=ahkBkIGdnWQ)
+  - skip connections allow gradient to reach beginning weights with greater magnitude by skipping some layers in between.
 - Modal Collapse in GANs [Link]()
-
-
-
+- Data Augment [Stanford](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks) 
 
 
 # Deep Learning General 
