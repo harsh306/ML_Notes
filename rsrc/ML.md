@@ -34,6 +34,11 @@
 - ML FAQ [Link](https://sebastianraschka.com/faq/index.html)
 - MLE vs MAP [Link](https://wiseodd.github.io/techblog/2017/01/01/mle-vs-map/)
 
+### Evaluation
+- Precion Recall , Accuracy, F1 Confusion Matrix [Link](https://www.youtube.com/watch?v=Kdsp6soqA7o)
+- AUC ROC [Link](https://www.youtube.com/watch?v=4jRBRDbJemM)
+- 
+
 ### Statistics and Probability 
 - Counting, Permutations, Combinations [Link](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/)
   - Permutations = n!/(n-r)! ; n is total number of objects and r is number of objects selected
