@@ -62,6 +62,8 @@
 - Hypothesis testing
   - p-value
   - pdf, pmf
+  - Exact vs In-exact test
+  - T-distribution vs z or Normal distribution
 - Probablity 
   - Conditional Probability
   - Bayes Theorem
