@@ -39,7 +39,9 @@
 - Vanishing Gradients [Link](https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/) [Link2](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
 - Exploding Gradients [Link](https://www.machinecurve.com/index.php/2019/09/16/he-xavier-initialization-activation-functions-choose-wisely/)
 - Batch Normalization [Link](https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739)
-  - Covariate shift in inputs [Link](https://www.youtube.com/watch?v=nUUqwaxLnWs)  
+  - Covariate shift in inputs [Link](https://www.youtube.com/watch?v=nUUqwaxLnWs)
+  - Faster convergence: Then during gradient descent, in order to “move the needle” for the Loss, the network would have to make a large update to one weight compared to the other weight. This can cause the gradient descent trajectory to oscillate back and forth along one dimension, thus taking more steps to reach the minimum. 
+  - Vanishing exploding gradients
 - Skip Connections, ResNets [Link](https://www.youtube.com/watch?v=RYth6EbBUqM) [ResNet](https://www.youtube.com/watch?v=ahkBkIGdnWQ)
   - skip connections allow gradient to reach beginning weights with greater magnitude by skipping some layers in between.
 - Modal Collapse in GANs [Link]()
