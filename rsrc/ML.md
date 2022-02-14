@@ -21,7 +21,7 @@
 - Correlation vs Causation [Link](https://www.iperceptions.com/blog/causation-vs-correlation)
 - Pearson Correlation
 - L1 and L2 Regularizer [Link](https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261) [Link2](https://explained.ai/regularization/index.html) [Link-Viz](https://simzhou.com/en/posts/2021/cross-entropy-loss-visualized/)
-- AUC-ROC [Link](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
+- Why cross entropy vs MSE [Link](https://www.youtube.com/watch?v=gIx974WtVb4)
 - Dummy Variable Trap[Link](https://docs.google.com/document/d/e/2PACX-1vTCgloYD87WQK4zqqV0YwZpQuuB6etoGE-2n_AfBSwu9X4QDYIawpu-8Y44UL2xPKiZ2EWyQtPJnVFI/pub)
 - My MLE-Notes[Link](https://github.com/harsh306/Notes-MLE/tree/master/pdf)
 - Log-likelihood [Link](https://blog.metaflow.fr/ml-notes-why-the-log-likelihood-24f7b6c40f83) [Link2](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/)
@@ -36,7 +36,7 @@
 
 ### Evaluation
 - Precion Recall , Accuracy, F1 Confusion Matrix [Link](https://www.youtube.com/watch?v=Kdsp6soqA7o)
-- AUC ROC [Link](https://www.youtube.com/watch?v=4jRBRDbJemM)
+- AUC ROC [Link](https://www.youtube.com/watch?v=4jRBRDbJemM) [Link](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
 - 
 
 ### Statistics and Probability 
