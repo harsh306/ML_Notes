@@ -31,6 +31,8 @@
 
 #### Regularizations 
 - Dropouts [Link](https://medium.com/@bingobee01/a-review-of-dropout-as-applied-to-rnns-72e79ecd5b7b)
+  - The core concept of Srivastava el al. (2014) is that “each hidden unit in a neural network trained with dropout must learn to work with a randomly chosen sample of other units. This should make each hidden unit more robust and drive it towards creating useful features on its own without relying on other hidden units to correct its mistakes.”. “In a standard neural network, the derivative received by each parameter tells it how it should change so the final loss function is reduced, given what all other units are doing. Therefore, units may change in a way that they fix up the mistakes of the other units. This may lead to complex co-adaptations. This in turn leads to overfitting because these co-adaptations do not generalize to unseen data.” Srivastava et al. (2014) hypothesize that by making the presence of other hidden units unreliable, dropout prevents co-adaptation of each hidden unit. 
+     
 - L1
 - L2
 
