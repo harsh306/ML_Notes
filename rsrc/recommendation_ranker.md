@@ -53,6 +53,7 @@
 - Youtube RL [Link](https://www.youtube.com/watch?v=HEqQ2_1XRTs)
 - Google video [Link](https://gofishdigital.com/video-search-results-using-machine-learning/)
 - Expedia [Link1](http://ceur-ws.org/Vol-2959/paper3.pdf) [Link2](https://arxiv.org/abs/1910.03943)
+- Airbnb Diversity [Ljnk](https://arxiv.org/pdf/2004.02621.pdf)
 - Goolge UI retrival [Link](https://arxiv.org/pdf/2110.07775.pdf)
 - Facebook DRLM [Link](https://arxiv.org/pdf/1906.00091.pdf)
 - Bookings com [Link](https://booking.ai/booking-com-recsys-2021-d65a1ee98cea)
