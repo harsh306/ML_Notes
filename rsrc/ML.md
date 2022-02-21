@@ -19,6 +19,13 @@
 - PCA and SVD computation from data matrix. [Link](https://www.youtube.com/watch?v=IbE0tbjy6JQ&list=PLBv09BD7ez_5_yapAg86Od6JeeypkS4YM) [Link](https://docs.google.com/document/d/e/2PACX-1vT9cGkZ8KFpt55t7fR3eB2BNrhKrmyT2joSR_1XMNmsPWsCs2g8YKK3EwhO4_3gsDirI3vCwJ6swPVb/pub)
 
 ### Imp ML Concepts
+- Bias variance Tradeoff [Link](https://www.youtube.com/watch?v=EuBBz3bI-aA)
+  - Random Forest [Link](https://stats.stackexchange.com/questions/285866/why-does-a-bagged-tree-random-forest-tree-have-higher-bias-than-a-single-decis)
+  - Low bias and variance is reducned by bagging. 
+  - Linear regression is high bias , low variance (less complex model)
+  - Full NN is low bias high variance (more complex model)
+  - high Bias is mifit in training data 
+  - high variance is difference in errors with different data set e.g. test data. 
 - Correlation vs Causation [Link](https://www.iperceptions.com/blog/causation-vs-correlation)
 - Pearson Correlation
 - L1 and L2 Regularizer [Link](https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261) [Link2](https://explained.ai/regularization/index.html) [Link-Viz](https://simzhou.com/en/posts/2021/cross-entropy-loss-visualized/)
