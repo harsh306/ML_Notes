@@ -19,7 +19,7 @@
 - PCA and SVD computation from data matrix. [Link](https://www.youtube.com/watch?v=IbE0tbjy6JQ&list=PLBv09BD7ez_5_yapAg86Od6JeeypkS4YM) [Link](https://docs.google.com/document/d/e/2PACX-1vT9cGkZ8KFpt55t7fR3eB2BNrhKrmyT2joSR_1XMNmsPWsCs2g8YKK3EwhO4_3gsDirI3vCwJ6swPVb/pub)
 
 ### Imp ML Concepts
-- Bias variance Tradeoff [Link](https://www.youtube.com/watch?v=EuBBz3bI-aA)
+- Bias variance Tradeoff [Link](https://www.youtube.com/watch?v=EuBBz3bI-aA) [Link2](https://www.youtube.com/watch?v=YIPsfEtJppE)
   - Random Forest [Link](https://stats.stackexchange.com/questions/285866/why-does-a-bagged-tree-random-forest-tree-have-higher-bias-than-a-single-decis)
   - Low bias and variance is reducned by bagging. 
   - Linear regression is high bias , low variance (less complex model)
