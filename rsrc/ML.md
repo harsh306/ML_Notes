@@ -2,9 +2,12 @@
 
 ### Core Algorithms
 - Descion Trees: [Link](https://towardsdatascience.com/understanding-decision-trees-for-classification-python-9663d683c952) 
-- Linear Regression - Elements of Statistical Learning (pages 43-49)
+  - Entropy or information gain to make the first split and so on.
+- Random Forest (descion Trees + Bagging + random feature subset) [Link](https://www.youtube.com/watch?v=v6VJ2RO66Ag)
+  - Reduces bias by overfiting one tree
+  - Reduces variance by combining results from multiple trees (bagging)   
+- Linear Regression - Elements of Statistical Learning (pages 43-49) and ISLR
   -  R-square vs Adjusted R-2 coefficient of determintation
-  -  
 - Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
 - Bagging vs Boosting and Stacking [Link](https://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning) [Link2](https://www.upgrad.com/blog/bagging-vs-boosting/#Why_is_bagging_better_than_boosting) 
 - Gradient Boosting [Link](https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/) [LINK2](https://www.youtube.com/watch?v=en2bmeB4QUo)
@@ -13,11 +16,6 @@
 - Bayes Theorem [Link](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
   - P(A|B) = P(B|A).P(A)/P(B)
 - Naive Bayes [Link]()
-- Descion Trees 
-  - Entropy or information gain to make the first split and so on.   
-- Random Forest (descion Trees + Bagging + random feature subset) [Link](https://www.youtube.com/watch?v=v6VJ2RO66Ag)
-  - Reduces bias by overfiting one tree
-  - Reduces variance by combining results from multiple trees (bagging)   
 - K-NN [Link](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
   - KNN works by finding the distances between a query and all the examples in the data, selecting the specified number examples (K) closest to the query, then votes for the most frequent label (in the case of classification) or averages the labels (in the case of regression)
   - General rule is k = sqrt(N) 
