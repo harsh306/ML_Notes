@@ -10,12 +10,22 @@
 - Random Forest [Link](https://www.youtube.com/watch?v=v6VJ2RO66Ag)
 - Gradient Boosting [Link](https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/) [LINK2](https://www.youtube.com/watch?v=en2bmeB4QUo)
 - Bayes Theorem [Link](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
+  - P(A|B) = P(B|A).P(A)/P(B)
 - Naive Bayes [Link]()
-- Descion Trees
+- Descion Trees 
+  - Entropy or information gain to make the first split and so on.   
 - Random Forest (descion Trees + Bagging + random feature subset)
+  - Reduces bias by overfiting one tree
+  - Reduces variance by combining results from multiple trees (bagging)   
 - K-NN [Link](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
   - KNN works by finding the distances between a query and all the examples in the data, selecting the specified number examples (K) closest to the query, then votes for the most frequent label (in the case of classification) or averages the labels (in the case of regression)
-- K-means 
+  - General rule is k = sqrt(N) 
+- K-means [Link](https://medium.com/analytics-vidhya/how-to-determine-the-optimal-k-for-k-means-708505d204eb)
+  - k points at ramdom, 
+  - assign datapoints to center  
+  - Recompute cluster center
+  - move center and iterate
+  - Elbow method: choose k based on sharp drop in sum of squared errors between center and data points as k increases. 
 - SVM [Link](https://svmtutorial.online/download.php?file=SVM_tutorial.pdf) [Link2](https://www.svm-tutorial.com/category/svm-tutorial/math-svm-tutorial/)
 - PCA and SVD computation from data matrix. [Link](https://www.youtube.com/watch?v=IbE0tbjy6JQ&list=PLBv09BD7ez_5_yapAg86Od6JeeypkS4YM) [Link](https://docs.google.com/document/d/e/2PACX-1vT9cGkZ8KFpt55t7fR3eB2BNrhKrmyT2joSR_1XMNmsPWsCs2g8YKK3EwhO4_3gsDirI3vCwJ6swPVb/pub)
 
