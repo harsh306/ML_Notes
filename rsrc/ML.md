@@ -7,14 +7,15 @@
   -  
 - Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
 - Bagging vs Boosting and Stacking [Link](https://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning) [Link2](https://www.upgrad.com/blog/bagging-vs-boosting/#Why_is_bagging_better_than_boosting) 
-- Random Forest [Link](https://www.youtube.com/watch?v=v6VJ2RO66Ag)
 - Gradient Boosting [Link](https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/) [LINK2](https://www.youtube.com/watch?v=en2bmeB4QUo)
+  - Is a error reducing strategy which can be used with any weak learner along with the idea of boosting. 
+  - Linear regression or descion tree.  
 - Bayes Theorem [Link](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
   - P(A|B) = P(B|A).P(A)/P(B)
 - Naive Bayes [Link]()
 - Descion Trees 
   - Entropy or information gain to make the first split and so on.   
-- Random Forest (descion Trees + Bagging + random feature subset)
+- Random Forest (descion Trees + Bagging + random feature subset) [Link](https://www.youtube.com/watch?v=v6VJ2RO66Ag)
   - Reduces bias by overfiting one tree
   - Reduces variance by combining results from multiple trees (bagging)   
 - K-NN [Link](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
