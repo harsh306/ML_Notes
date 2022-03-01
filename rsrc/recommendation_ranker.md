@@ -58,7 +58,11 @@
 - Facebook DRLM [Link](https://arxiv.org/pdf/1906.00091.pdf)
 - Bookings com [Link](https://booking.ai/booking-com-recsys-2021-d65a1ee98cea)
 - Stitch fix [Link](https://algorithms-tour.stitchfix.com/)
-
+- Walmart 
+  - Collabrative and content based filtering, Autoencoder Recommender [Link](https://www.youtube.com/watch?v=7LEOZBrlfW4)
+  - Sequential Recommender [Link](https://www.youtube.com/watch?v=Q_if1aOJm00)
+    - RNN, LSTMS, CNNS, Transformers (almost as next word prediction)
+  
 
 
 
