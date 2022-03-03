@@ -38,6 +38,7 @@
   - Full NN is low bias high variance (more complex model)
   - high Bias is mifit in training data 
   - high variance is difference in errors with different data set e.g. test data. 
+  - Why variance reduces and correlation between learners [Link](https://towardsdatascience.com/understanding-the-effect-of-bagging-on-variance-and-bias-visually-6131e6ff1385)
 - Correlation vs Causation [Link](https://www.iperceptions.com/blog/causation-vs-correlation)
 - Pearson Correlation
 - L1 and L2 Regularizer [Link](https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261) [Link2](https://explained.ai/regularization/index.html) [Link-Viz](https://simzhou.com/en/posts/2021/cross-entropy-loss-visualized/)
