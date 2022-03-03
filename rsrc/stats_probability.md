@@ -1,4 +1,6 @@
-### Statistics and Probability 
+## Statistics and Probability 
+
+
 - Counting, Permutations, Combinations [Link](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/)
   - Permutations = n!/(n-r)! ; n is total number of objects and r is number of objects selected
   - Combinations = n!/{r!.(n-r)!} ; n is total number of objects and r is number of objects selected
