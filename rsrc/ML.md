@@ -65,8 +65,9 @@
   - Combinations = n!/{r!.(n-r)!} ; n is total number of objects and r is number of objects selected
   - Rule of product (src: wikipedia): In combinatorics, the rule of product or multiplication principle is a basic counting principle (a.k.a. the fundamental principle of counting). Stated simply, it is the intuitive idea that if there are a ways of doing something and b ways of doing another thing, then there are a · b ways of performing both actions. Example for first slot 5 options, for secod and third also 5. So there are total 5x5x5 ways of considering alll combinations. 
 - Random variable [Link](https://www.khanacademy.org/math/ap-statistics/random-variables-ap/discrete-random-variables/)
-  - X: Number of heads after tossing a coing 3 times
-  - pdf: probability/number of heads(0,1,2,3)
+  - discrete R.V is for counting; continous R.V is for measuring.
+  - X: Number of heads after tossing a coing 3 times or Y measuring the rain fall in inches. 
+  - pdf: probability/number of heads(0,1,2,3) ; P(Y between 1.9 and 2.1 inches of rain)
 - Descriptive Statistics
   - Sample Distribution [Link](https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/what-is-sampling-distribution/v/introduction-to-sampling-distributions)
     - Population parameters (population mean, std, proportions) etc.
