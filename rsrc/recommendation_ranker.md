@@ -1,5 +1,12 @@
 # Ranking (Retival and Recommendation) [Quick Reads]
 
+### Personalization
+- Collabrative Filtering
+- Content Based Filtering
+- Low rank matrix factorization
+- Deep Neural Networks
+- Sequential Recommender Systems
+
 ### Ranking 
 - Pointwise vs Pairwise Ranking [Link](https://www.ejournals.eu/pliki/art/9011/)
 - CrossEntropy Loss [Link](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
@@ -24,8 +31,6 @@
   - Covers clustering, k-nn, k-means, Map-reduce k-means, hirerarchical clustering, dendograms. 
   - Cosine is not a metric, Cosine vs Eucledia distance, When to normalize feature vectors
 
-
-
 # Advances
 - Context Aware Attention rank [Link](https://arxiv.org/pdf/2005.10084.pdf)
 - Neural NDCG [Link](https://github.com/allegro/allRank)
@@ -33,7 +38,6 @@
 - Search/User and Item [Link](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Rendle2010FM.pdf)
 - Blogs Overview [Link](https://towardsdatascience.com/recommendation-system-series-part-1-an-executive-guide-to-building-recommendation-system-608f83e2630a)
 - Entity linking [Link](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/reinanda-2020-knowledge.pdf)
-
 
 
 # Case Studies: (Follow Recsys Conference for more)
@@ -64,10 +68,5 @@
     - RNN, LSTMS, CNNS, Transformers (almost as next word prediction)
 - Ebay [Link](https://tech.ebayinc.com/engineering/building-a-deep-learning-based-retrieval-system-for-personalized-recommendations/)
   
-
-
-
-
-
 
 
