@@ -7,6 +7,11 @@
   - discrete R.V is for counting; continous R.V is for measuring.
   - X: Number of heads after tossing a coing 3 times or Y measuring the rain fall in inches. 
   - pdf: probability/number of heads(0,1,2,3) ; P(Y between 1.9 and 2.1 inches of rain)
+- Law of large Numbers ties: 
+  - Random Variables
+  - Probability Distribution
+  - Expectation of random variables E(X)   
+  - Define: As the number of identically distributed, randomly generated variables increases, their sample mean (average) approaches their theoretical mean
 - Descriptive Statistics
   - Sample Distribution [Link](https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/what-is-sampling-distribution/v/introduction-to-sampling-distributions)
     - Population parameters (population mean, std, proportions) etc.
