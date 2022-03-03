@@ -43,7 +43,7 @@
 - Google Play Store [Link](https://deepmind.com/blog/article/Advanced-machine-learning-helps-Play-Store-users-discover-personalised-apps)
 - Slack Channel Recc. [Link](https://slack.engineering/personalized-channel-recommendations-in-slack/)
 - Etsy [Link](https://dl.acm.org/doi/abs/10.1145/3383313.3411480) [Link-talk](https://www.youtube.com/watch?v=UbytXZLqezo)
-- Spotify [Publications](https://research.atspotify.com/publication/) [Link](https://dl.acm.org/doi/10.1145/3383313.3412248)
+- Spotify [Publications](https://research.atspotify.com/publication/) [Link](https://dl.acm.org/doi/10.1145/3383313.3412248) [Link](https://research.atspotify.com/modeling-users-according-to-their-slow-and-fast-moving-interests)
 - Alibaba [Link](https://dl.acm.org/doi/10.1145/3383313.3412238)
 - Twitter [Link](https://dl.acm.org/doi/10.1145/3383313.3418486)
 - MatchMaking [Link](https://dl.acm.org/doi/10.1145/3383313.3411558)
@@ -62,6 +62,7 @@
   - Collabrative and content based filtering, Autoencoder Recommender [Link](https://www.youtube.com/watch?v=7LEOZBrlfW4)
   - Sequential Recommender [Link](https://www.youtube.com/watch?v=Q_if1aOJm00)
     - RNN, LSTMS, CNNS, Transformers (almost as next word prediction)
+- Ebay [Link](https://tech.ebayinc.com/engineering/building-a-deep-learning-based-retrieval-system-for-personalized-recommendations/)
   
 
 
