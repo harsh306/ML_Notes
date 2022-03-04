@@ -21,16 +21,20 @@
     - Central limit theorem (as you take multiple samples more like infinite samples). Samples grows, plot it on frequency distribution y-axis freuency and x-axis sample means. It converges to normal distribution. It applies to means, sums and variance. 
     - This later becomes sampling distribution of sample mean or any statistics. 
 - Distributions
-  - Binomial Distribution (0,1)
+  - Binomial Distribution (0,1) [Link](https://www.youtube.com/watch?v=e04_wUoscBU)
   - Bernaulii Distribution (0, 1, 2, ..k)
-  - Normal Distribution (Gaussian)
-  - Uniform Distribution  ()
+  - Normal Distribution (Gaussian) [Link](https://www.youtube.com/watch?v=RKdB1d5-OE0)
+  - t-distribution [Link](https://www.youtube.com/watch?v=UetYS3PaHIo)
+  - Chi Squared distribution [Link](https://www.youtube.com/watch?v=80ffqpZdKiA)
+  - F-distribution (Chi) 
+  - Uniform Distribution 
 - Descriptive and Inferential Statistics 
 - Hypothesis testing
-  - p-value
-  - pdf, pmf
+  - p-value 
+  - pdf, pmf, cdf [Link](https://www.youtube.com/watch?v=YXLVjCKVP7U)
   - Exact vs In-exact test
-  - T-distribution vs z or Normal distribution
+  - Degree of freedom [Link](https://www.youtube.com/watch?v=4otEcA3gjLk)
+  - T-distribution vs z or Normal distribution [Link](https://www.youtube.com/watch?v=5ABpqVSx33I)
 - Probablity 
   - Conditional Probability
   - Bayes Theorem
