@@ -7,10 +7,19 @@
   - Reduces bias by overfiting one tree
   - Reduces variance by combining results from multiple trees (bagging)   
 - Linear Regression - Elements of Statistical Learning (pages 43-49) and ISLR
-  -  R-square vs Adjusted R-2 coefficient of determintation
   -  Regression analysis playlist [Link](https://www.youtube.com/playlist?list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi)
   -  Multicolenarity [Link](https://www.youtube.com/watch?v=Cba9LJ9lS8s&list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi&index=9)
+      -  check the correlation and remove the features manually, 
+      -  Auxillary regression (X1~X2, X3), and comute VIF (1/1-R^2) 
+  -  R-square vs Adjusted R-2 coefficient of determintation
+  -  Coeficient calculation
+  -  Standard error
+  -  t-statistic depends on degrees of freedom  and (same as z-stat as n>30):
+  -  F-statistic for concluding results on more than one variable at a time similar to R-square. 
+      - <img src="https://latex.codecogs.com/svg.image?F&space;=&space;\frac{TSS-RSS/p}{RSS/n-p-2}" title="F = \frac{TSS-RSS/p}{RSS/n-p-2}" />
 - Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
+  - What is the significance of log odds. ? [Link](https://www.youtube.com/watch?v=iQNRzHKjFw0); 
+  - Distribution of odd ratios become normal from right skewed. [Link](https://www.youtube.com/watch?v=8nm0G-1uJzA)
 - Bagging vs Boosting and Stacking [Link](https://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning) [Link2](https://www.upgrad.com/blog/bagging-vs-boosting/#Why_is_bagging_better_than_boosting) 
 - Gradient Boosting [Link](https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/) [LINK2](https://www.youtube.com/watch?v=en2bmeB4QUo)
   - Is a error reducing strategy which can be used with any weak learner along with the idea of boosting. 
