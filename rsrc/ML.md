@@ -16,7 +16,7 @@
   -  Standard error
   -  t-statistic depends on degrees of freedom  and (same as z-stat as n>30):
   -  F-statistic for concluding results on more than one variable at a time similar to R-square. 
-      - <img src="https://latex.codecogs.com/svg.image?\bg_white&space;F&space;=&space;\frac{TSS-RSS/p}{RSS/n-p-2}" title="\bg_white F = \frac{TSS-RSS/p}{RSS/n-p-2}" />
+      - <img src="https://latex.codecogs.com/svg.image?\bg_black&space;F&space;=&space;\frac{TSS-RSS/p}{RSS/n-p-2}" title="\bg_black F = \frac{TSS-RSS/p}{RSS/n-p-2}" />
 - Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
   - What is the significance of log odds. ? [Link](https://www.youtube.com/watch?v=iQNRzHKjFw0); 
   - Distribution of odd ratios become normal from right skewed. [Link](https://www.youtube.com/watch?v=8nm0G-1uJzA)
