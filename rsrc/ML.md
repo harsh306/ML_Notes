@@ -3,20 +3,21 @@
 ### Core Algorithms
 - Descion Trees: [Link](https://towardsdatascience.com/understanding-decision-trees-for-classification-python-9663d683c952) 
   - Entropy or information gain to make the first split and so on.
-- Random Forest (descion Trees + Bagging + random feature subset) [Link](https://www.youtube.com/watch?v=v6VJ2RO66Ag)
-  - Reduces bias by overfiting one tree
-  - Reduces variance by combining results from multiple trees (bagging)   
-- Linear Regression - Elements of Statistical Learning (pages 43-49) and ISLR
-  -  Regression analysis playlist [Link](https://www.youtube.com/playlist?list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi)
-  -  Multicolenarity [Link](https://www.youtube.com/watch?v=Cba9LJ9lS8s&list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi&index=9)
-      -  check the correlation and remove the features manually, 
-      -  Auxillary regression (X1~X2, X3), and comute VIF (1/1-R^2) 
+- Random Forest (descion Trees + Bagging + random feature subset) [Link](https://www.youtube.com/watch?v=v6VJ2RO66Ag). 
+  - Reduces bias by overfiting one tree. 
+  - Reduces variance by combining results from multiple not-correlated trees (bagging).
+- Linear Regression - Elements of Statistical Learning (pages 43-49) and ISLR. 
+  -  Regression analysis playlist [Link](https://www.youtube.com/playlist?list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi). 
+  -  Multicolenarity [Link](https://www.youtube.com/watch?v=Cba9LJ9lS8s&list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi&index=9).
+      -  check the correlation and remove the features manually. 
+      -  Auxillary regression (X1~X2, X3), and comute VIF (1/1-R^2). 
   -  R-square vs Adjusted R-2 coefficient of determintation
   -  Coeficient calculation
   -  Standard error
   -  t-statistic depends on degrees of freedom  and (same as z-stat as n>30):
   -  F-statistic for concluding results on more than one variable at a time similar to R-square. 
       - <img src="https://latex.codecogs.com/svg.image?\bg_black&space;\inline&space;F&space;=&space;\frac{TSS-RSS/p}{RSS/n-p-2}" title="\bg_black \inline F = \frac{TSS-RSS/p}{RSS/n-p-2}" />
+    - Dummy Trap: leads to near singular matrix.  
 - Logistic Regression [Link](https://docs.google.com/document/d/e/2PACX-1vTmmpP_tr2_11J0_wS64bcpl4w4Ey6VaJgBaZAOWYqKq2JGexMdirqoZf56BvfqgO5uYXXaqku8pecB/pub)
   - What is the significance of log odds. ? [Link](https://www.youtube.com/watch?v=iQNRzHKjFw0); 
   - Distribution of odd ratios become normal from right skewed. [Link](https://www.youtube.com/watch?v=8nm0G-1uJzA)
