@@ -38,7 +38,7 @@
 - Search/User and Item [Link](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Rendle2010FM.pdf)
 - Blogs Overview [Link](https://towardsdatascience.com/recommendation-system-series-part-1-an-executive-guide-to-building-recommendation-system-608f83e2630a)
 - Entity linking [Link](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/reinanda-2020-knowledge.pdf)
-- Light GCN [Link](https://medium.com/stanford-cs224w/lightgcn-with-pytorch-geometric-91bab836471e)
+- Light GCN [Link](https://medium.com/stanford-cs224w/lightgcn-with-pytorch-geometric-91bab836471e) [Link](https://arxiv.org/pdf/2002.02126.pdf)
 
 # Case Studies: (Follow Recsys Conference for more)
 - ML Interview Case Study by Patrick: [Link](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
