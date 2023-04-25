@@ -62,7 +62,6 @@
 
 #### AUTODIFF [Link](http://videolectures.net/deeplearning2017_johnson_automatic_differentiation/)  [JAX](https://colinraffel.com/blog/you-don-t-know-jax.html)
 
-
 #### Self supervised Learning [Link](https://arxiv.org/abs/2304.12210)
 
 
