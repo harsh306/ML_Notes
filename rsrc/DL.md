@@ -2,7 +2,7 @@
 
 #### Prerequisites 
 - Linear Algebra and Calculus
-- Intro to probability
+- Intro to Probability
 - Entropy and information
 - Loss Functions
 - Maximum Likelihood Estimate
@@ -12,7 +12,7 @@
 - Taylor Series Approximation [Link](https://suzyahyah.github.io/calculus/optimization/2018/04/06/Taylor-Series-Newtons-Method.html)
 - Momentum [Link](https://distill.pub/2017/momentum/)
 
-#### Backpropogation and Initializations 
+#### Backpropagation and Initializations 
 - Xavier/Glorot [Link](https://www.deeplearning.ai/ai-notes/initialization/)
 - He init [Link](https://medium.com/@shoray.goel/kaiming-he-initialization-a8d9ed0b5899)
 - Softmax CrossEntropy Backprop [Link](https://www.ics.uci.edu/~pjsadows/notes.pdf)
@@ -28,6 +28,7 @@
 - Autoencoder, PCA 
 - GANs [Link](https://www.youtube.com/watch?v=Gib_kiXgnvA) [Link](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 - Transformer and attention [Link](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+- Why a deeper network? [Link](https://stats.stackexchange.com/questions/222883/why-are-neural-networks-becoming-deeper-but-not-wider) [Link2](https://stats.stackexchange.com/questions/222883/why-are-neural-networks-becoming-deeper-but-not-wider)
 
 #### Regularizations 
 - Dropouts [Link](https://medium.com/@bingobee01/a-review-of-dropout-as-applied-to-rnns-72e79ecd5b7b)
@@ -36,7 +37,7 @@
 - L1
 - L2
 
-#### Common Problems and Intutions
+#### Common Problems and Intuitions
 - Best practice [Andrej](http://karpathy.github.io/2019/04/25/recipe/)
 - Vanishing Gradients [Link](https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/) [Link2](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
 - Exploding Gradients [Link](https://www.machinecurve.com/index.php/2019/09/16/he-xavier-initialization-activation-functions-choose-wisely/)
@@ -45,7 +46,7 @@
   - Faster convergence: Then during gradient descent, in order to “move the needle” for the Loss, the network would have to make a large update to one weight compared to the other weight. This can cause the gradient descent trajectory to oscillate back and forth along one dimension, thus taking more steps to reach the minimum. 
   - Vanishing exploding gradients
 - Skip Connections, ResNets [Link](https://www.youtube.com/watch?v=RYth6EbBUqM) [ResNet](https://www.youtube.com/watch?v=ahkBkIGdnWQ)
-  - skip connections allow gradient to reach beginning weights with greater magnitude by skipping some layers in between.
+  - skip connections allow the gradient to reach beginning weights with greater magnitude by skipping some layers in between.
 - Modal Collapse in GANs [Link]()
 - Data Augment [Stanford](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks) 
 
@@ -62,6 +63,6 @@
 
 #### AUTODIFF [Link](http://videolectures.net/deeplearning2017_johnson_automatic_differentiation/)  [JAX](https://colinraffel.com/blog/you-don-t-know-jax.html)
 
-#### Self supervised Learning [Link](https://arxiv.org/abs/2304.12210)
+#### Self-supervised Learning [Link](https://arxiv.org/abs/2304.12210)
 
 
